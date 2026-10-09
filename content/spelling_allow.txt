@@ -746,3 +746,12 @@ sarrafo
 clã
 moa
 kit
+
+# Valid words missing from older hunspell-pt-pt versions (Ubuntu, used in CI)
+apneia
+cerdas
+geco
+paul
+paços
+porro
+xis
