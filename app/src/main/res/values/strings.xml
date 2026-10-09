@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palavras Cruzadas</string>
+    <string name="widget_description">Desafio de hoje: estado e sequência</string>
+    <string name="reminder_channel">Desafio diário</string>
+    <string name="reminder_title">O desafio de hoje está à espera</string>
+    <string name="reminder_text">Ainda não fizeste o desafio de hoje.</string>
+</resources>

@@ -1,0 +1,22 @@
+*.apk
+*.aab
+*.iml
+*.keystore
+*.jks
+*.log
+.DS_Store
+.gradle/
+.idea/
+build/
+local.properties
+.kotlin/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Internal notes (not published)
+PLANO.md
+PROGRESSO.md
+DECISOES.md
+docs/opcoes.html

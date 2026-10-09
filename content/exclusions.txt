@@ -1,0 +1,3 @@
+# Words and expressions that never go into the bank (answers or clues).
+# One per line, any case, with or without accents. Lines starting with # are comments.
+# Trademarks, swear words, and non-neutral political or religious terms.

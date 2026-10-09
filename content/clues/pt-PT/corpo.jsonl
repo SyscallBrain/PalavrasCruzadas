@@ -1,0 +1,214 @@
+{"answer": "DEDO", "clues": [{"t": "Cada um dos cinco apêndices da mão", "d": 1, "s": "Mão"}, {"t": "Parte do pé ou da mão, em ponta", "d": 2}], "themes": ["corpo"], "lemma": "DEDO"}
+{"answer": "BOCA", "clues": [{"t": "Abertura do rosto por onde se come", "d": 1, "s": "Rosto"}, {"t": "Órgão onde se situam os dentes e a língua", "d": 2}], "themes": ["corpo"], "lemma": "BOCA"}
+{"answer": "LÍNGUA", "clues": [{"t": "Órgão muscular da boca que sente o sabor", "d": 1, "s": "Órgão"}, {"t": "Idioma de um povo, também o que se fala", "d": 2}], "themes": ["corpo"], "lemma": "LÍNGUA"}
+{"answer": "QUEIXO", "clues": [{"t": "Parte saliente do rosto, abaixo da boca", "d": 1, "s": "Rosto"}, {"t": "Ponta inferior da cara", "d": 2}], "themes": ["corpo"], "lemma": "QUEIXO"}
+{"answer": "TESTA", "clues": [{"t": "Parte da cara entre os olhos e o cabelo", "d": 1, "s": "Rosto"}, {"t": "Fronte, por cima das sobrancelhas", "d": 2}], "themes": ["corpo"], "lemma": "TESTA"}
+{"answer": "SOBRANCELHA", "clues": [{"t": "Pelos por cima dos olhos", "d": 1, "s": "Pelos"}, {"t": "Arco de pelo que protege os olhos do suor", "d": 2}], "themes": ["corpo"], "lemma": "SOBRANCELHA"}
+{"answer": "PESTANA", "clues": [{"t": "Pelo que nasce na borda da pálpebra", "d": 1, "s": "Pelo"}, {"t": "Fio curto que protege os olhos", "d": 2}], "themes": ["corpo"], "lemma": "PESTANA"}
+{"answer": "OLHEIRA", "clues": [{"t": "Mancha escura por baixo dos olhos", "d": 2, "s": "Mancha"}, {"t": "Sinal de noites mal dormidas no rosto", "d": 2}], "themes": ["corpo"], "lemma": "OLHEIRA"}
+{"answer": "TÍMPANO", "clues": [{"t": "Membrana do ouvido que vibra com o som", "d": 2, "s": "Membrana"}, {"t": "Parte do ouvido que capta as vibrações", "d": 3}], "themes": ["corpo"], "lemma": "TÍMPANO"}
+{"answer": "BOCHECHA", "clues": [{"t": "Parte carnuda do rosto abaixo do olho", "d": 1, "s": "Rosto"}, {"t": "Zona da cara que se aperta ao sorrir", "d": 1}], "themes": ["corpo"], "lemma": "BOCHECHA"}
+{"answer": "MANDÍBULA", "clues": [{"t": "Osso da face que mexe ao mastigar", "d": 2, "s": "Osso"}, {"t": "Osso inferior da cara que suporta os dentes", "d": 2}], "themes": ["corpo"], "lemma": "MANDÍBULA"}
+{"answer": "MAXILAR", "clues": [{"t": "Osso da cara onde se prendem os dentes", "d": 2, "s": "Osso"}, {"t": "Osso superior da boca", "d": 2}], "themes": ["corpo"], "lemma": "MAXILAR"}
+{"answer": "CRÂNIO", "clues": [{"t": "Caixa óssea que protege o cérebro", "d": 1, "s": "Osso"}, {"t": "Estrutura de ossos da cabeça", "d": 2}], "themes": ["corpo"], "lemma": "CRÂNIO"}
+{"answer": "CARECA", "clues": [{"t": "Cabeça sem cabelo", "d": 1, "s": "Calvo"}, {"t": "Pessoa que já não tem cabelo no alto da cabeça", "d": 2}], "themes": ["corpo"], "lemma": "CARECA"}
+{"answer": "OMBRO", "clues": [{"t": "Articulação que une o braço ao tronco", "d": 1, "s": "Articulação"}, {"t": "Parte superior do corpo onde assenta a alça", "d": 2}], "themes": ["corpo"], "lemma": "OMBRO"}
+{"answer": "CLAVÍCULA", "clues": [{"t": "Osso fino que liga o ombro ao peito", "d": 2, "s": "Osso"}, {"t": "Osso em forma de S sobre o peito", "d": 3}], "themes": ["corpo"], "lemma": "CLAVÍCULA"}
+{"answer": "OMOPLATA", "clues": [{"t": "Osso triangular das costas, junto ao ombro", "d": 3, "s": "Osso"}, {"t": "Osso plano nas costas do ombro", "d": 3}], "themes": ["corpo"], "lemma": "OMOPLATA"}
+{"answer": "BRAÇO", "clues": [{"t": "Membro superior, entre o ombro e o cotovelo", "d": 1, "s": "Membro"}, {"t": "Membro que se estende para acolher alguém", "d": 2}], "themes": ["corpo"], "lemma": "BRAÇO"}
+{"answer": "ANTEBRAÇO", "clues": [{"t": "Parte do braço entre o cotovelo e o pulso", "d": 2, "s": "Membro"}, {"t": "Zona do membro superior entre cotovelo e punho", "d": 3}], "themes": ["corpo"], "lemma": "ANTEBRAÇO"}
+{"answer": "PALMA", "clues": [{"t": "Face interior da mão", "d": 1, "s": "Mão"}, {"t": "Superfície da mão onde se vê o desenho das linhas", "d": 2}], "themes": ["corpo"], "lemma": "PALMA"}
+{"answer": "DORSO", "clues": [{"t": "Parte de trás do corpo, das costas", "d": 1, "s": "Costas"}, {"t": "Lado de cima da mão ou do pé", "d": 2}], "themes": ["corpo"], "lemma": "DORSO"}
+{"answer": "UNHA", "clues": [{"t": "Placa córnea que cresce na ponta dos dedos", "d": 1, "s": "Córnea"}, {"t": "Lâmina dura que se corta com tesoura", "d": 2}], "themes": ["corpo"], "lemma": "UNHA"}
+{"answer": "CUTÍCULA", "clues": [{"t": "Película fina que cobre a base da unha", "d": 2, "s": "Película"}, {"t": "Pele junto à unha, que se empurra", "d": 3}], "themes": ["corpo"], "lemma": "CUTÍCULA"}
+{"answer": "FALANGE", "clues": [{"t": "Cada um dos ossos dos dedos", "d": 2, "s": "Osso"}, {"t": "Osso curto que forma os dedos da mão", "d": 3}], "themes": ["corpo"], "lemma": "FALANGE"}
+{"answer": "POLEGAR", "clues": [{"t": "Dedo mais grosso da mão, oposto aos outros", "d": 1, "s": "Dedo"}, {"t": "Dedo que se opõe aos restantes", "d": 2}], "themes": ["corpo"], "lemma": "POLEGAR"}
+{"answer": "INDICADOR", "clues": [{"t": "Dedo da mão ao lado do polegar", "d": 1, "s": "Dedo"}, {"t": "Dedo que se usa para apontar", "d": 2}], "themes": ["corpo"], "lemma": "INDICADOR"}
+{"answer": "MÉDIO", "clues": [{"t": "Dedo mais comprido da mão", "d": 1, "s": "Dedo"}, {"t": "Dedo entre o indicador e o anelar", "d": 2}], "themes": ["corpo"], "lemma": "MÉDIO"}
+{"answer": "ANELAR", "clues": [{"t": "Dedo onde se usa a aliança", "d": 1, "s": "Dedo"}, {"t": "Quarto dedo da mão, sem o mindinho", "d": 2}], "themes": ["corpo"], "lemma": "ANELAR"}
+{"answer": "MINDINHO", "clues": [{"t": "Dedo mais pequeno da mão", "d": 1, "s": "Dedo"}, {"t": "Quinto dedo, o mais fino", "d": 2}], "themes": ["corpo"], "lemma": "MINDINHO"}
+{"answer": "PEITO", "clues": [{"t": "Parte da frente do tronco, entre o pescoço e a barriga", "d": 1, "s": "Tronco"}, {"t": "Zona do tórax onde bate o coração", "d": 2}], "themes": ["corpo"], "lemma": "PEITO"}
+{"answer": "COLUNA", "clues": [{"t": "Conjunto de vértebras que sustenta o tronco", "d": 1, "s": "Vértebras"}, {"t": "Estrutura óssea que vai da nuca ao cóccix", "d": 2}], "themes": ["corpo"], "lemma": "COLUNA"}
+{"answer": "VÉRTEBRA", "clues": [{"t": "Cada osso da espinha dorsal", "d": 2, "s": "Osso"}, {"t": "Osso que protege a medula espinal", "d": 2}], "themes": ["corpo"], "lemma": "VÉRTEBRA"}
+{"answer": "LOMBAR", "clues": [{"t": "Zona da coluna, abaixo das costas", "d": 2, "s": "Zona"}, {"t": "Relativo à parte baixa das costas", "d": 2}], "themes": ["corpo"], "lemma": "LOMBAR"}
+{"answer": "CINTURA", "clues": [{"t": "Parte estreita do tronco, acima dos quadris", "d": 1, "s": "Tronco"}, {"t": "Medida em volta da parte mais fina do corpo", "d": 2}], "themes": ["corpo"], "lemma": "CINTURA"}
+{"answer": "QUADRIL", "clues": [{"t": "Parte lateral da bacia, junto à coxa", "d": 2, "s": "Bacia"}, {"t": "Zona de onde nasce a perna", "d": 2}], "themes": ["corpo"], "lemma": "QUADRIL"}
+{"answer": "ANCA", "clues": [{"t": "Parte do corpo, lateral, acima da coxa", "d": 2, "s": "Quadril"}, {"t": "Zona larga do corpo, junto ao quadril", "d": 2}], "themes": ["corpo"], "lemma": "ANCA"}
+{"answer": "BARRIGA", "clues": [{"t": "Parte da frente do tronco, abaixo do peito", "d": 1, "s": "Abdómen"}, {"t": "Ventre, onde se aloja o estômago", "d": 2}], "themes": ["corpo"], "lemma": "BARRIGA"}
+{"answer": "UMBIGO", "clues": [{"t": "Marca redonda no meio do abdómen", "d": 1, "s": "Cicatriz"}, {"t": "Vestígio do cordão que nos ligou à mãe", "d": 2}], "themes": ["corpo"], "lemma": "UMBIGO"}
+{"answer": "VIRILHA", "clues": [{"t": "Zona de dobra entre a coxa e o tronco", "d": 2, "s": "Zona"}, {"t": "Região do corpo entre a perna e o abdómen", "d": 2}], "themes": ["corpo"], "lemma": "VIRILHA"}
+{"answer": "COXA", "clues": [{"t": "Parte da perna entre a anca e o joelho", "d": 1, "s": "Perna"}, {"t": "Membro inferior, parte grossa acima do joelho", "d": 2}], "themes": ["corpo"], "lemma": "COXA"}
+{"answer": "RÓTULA", "clues": [{"t": "Osso redondo que protege o joelho", "d": 2, "s": "Osso"}, {"t": "Osso em forma de disco na frente do joelho", "d": 2}], "themes": ["corpo"], "lemma": "RÓTULA"}
+{"answer": "TÍBIA", "clues": [{"t": "Osso maior da perna, da frente", "d": 2, "s": "Osso"}, {"t": "Osso da canela, paralelo ao perónio", "d": 3}], "themes": ["corpo"], "lemma": "TÍBIA"}
+{"answer": "GÉMEOS", "clues": [{"t": "Músculo da barriga da perna", "d": 2, "s": "Músculo"}, {"t": "Músculo da panturrilha, em forma de dois ventres", "d": 3}], "themes": ["corpo"], "lemma": "GÉMEOS"}
+{"answer": "TORNOZELO", "clues": [{"t": "Articulação entre a perna e o pé", "d": 2, "s": "Articulação"}, {"t": "Saliência óssea de cada lado do pé", "d": 2}], "themes": ["corpo"], "lemma": "TORNOZELO"}
+{"answer": "CALCANHAR", "clues": [{"t": "Parte de trás do pé, em contacto com o chão", "d": 1, "s": "Pé"}, {"t": "Osso posterior do pé, o maior do tarso", "d": 3}], "themes": ["corpo"], "lemma": "CALCANHAR"}
+{"answer": "DEDÃO", "clues": [{"t": "Dedo grande do pé", "d": 2, "s": "Dedo"}, {"t": "O maior dedo do pé", "d": 1}], "themes": ["corpo"], "lemma": "DEDÃO"}
+{"answer": "CALO", "clues": [{"t": "Pele grossa que se forma por atrito", "d": 2, "s": "Pele"}, {"t": "Espessamento da pele, muitas vezes no pé", "d": 2}], "themes": ["corpo"], "lemma": "CALO"}
+{"answer": "JOANETE", "clues": [{"t": "Saliência dolorosa na base do dedo grande do pé", "d": 3, "s": "Saliência"}, {"t": "Deformação óssea do pé, na base do dedão", "d": 3}], "themes": ["corpo"], "lemma": "JOANETE"}
+{"answer": "FRIEIRA", "clues": [{"t": "Infeção de fungo entre os dedos dos pés", "d": 3, "s": "Fungo"}, {"t": "Micose que cria comichão entre os dedos", "d": 2}], "themes": ["corpo"], "lemma": "FRIEIRA"}
+{"answer": "PORO", "clues": [{"t": "Pequena abertura da pele por onde sai o suor", "d": 1, "s": "Abertura"}, {"t": "Orifício microscópico da pele", "d": 2}], "themes": ["corpo"], "lemma": "PORO"}
+{"answer": "SUOR", "clues": [{"t": "Líquido que sai da pele com o calor", "d": 1, "s": "Líquido"}, {"t": "Humidade que se sente na testa no esforço", "d": 2}], "themes": ["corpo"], "lemma": "SUOR"}
+{"answer": "GLÂNDULA", "clues": [{"t": "Órgão que segrega substâncias para o corpo", "d": 2, "s": "Órgão"}, {"t": "Estrutura que produz hormonas ou suor", "d": 2}], "themes": ["corpo"], "lemma": "GLÂNDULA"}
+{"answer": "SARDA", "clues": [{"t": "Pinta castanha na pele, sobretudo ao sol", "d": 1, "s": "Pinta"}, {"t": "Mancha pequena que surge com o sol", "d": 2}], "themes": ["corpo"], "lemma": "SARDA"}
+{"answer": "VERRUGA", "clues": [{"t": "Protuberância da pele causada por vírus", "d": 2, "s": "Protuberância"}, {"t": "Pequeno nódulo arredondado, na pele", "d": 2}], "themes": ["corpo"], "lemma": "VERRUGA"}
+{"answer": "CICATRIZ", "clues": [{"t": "Marca deixada pela ferida já sarada", "d": 1, "s": "Marca"}, {"t": "Sinal permanente na pele após um corte", "d": 2}], "themes": ["corpo"], "lemma": "CICATRIZ"}
+{"answer": "NÓDOA", "clues": [{"t": "Mancha na roupa ou na pele", "d": 2, "s": "Mancha"}, {"t": "Marca que a roupa leva depois de sujar", "d": 2}], "themes": ["corpo"], "lemma": "NÓDOA"}
+{"answer": "HEMATOMA", "clues": [{"t": "Pancada que deixa a pele roxa", "d": 1, "s": "Pancada"}, {"t": "Acumulação de sangue debaixo da pele", "d": 2}], "themes": ["corpo"], "lemma": "HEMATOMA"}
+{"answer": "ARRANHÃO", "clues": [{"t": "Risco superficial feito na pele com unhas", "d": 1, "s": "Risco"}, {"t": "Ferida leve causada por unhas ou espinhos", "d": 2}], "themes": ["corpo"], "lemma": "ARRANHÃO"}
+{"answer": "CORTE", "clues": [{"t": "Ferida aberta por lâmina", "d": 1, "s": "Ferida"}, {"t": "Lesão feita por lâmina ou vidro", "d": 2}], "themes": ["corpo"], "lemma": "CORTE"}
+{"answer": "FERIDA", "clues": [{"t": "Lesão aberta na pele", "d": 1, "s": "Lesão"}, {"t": "Abertura causada por golpe ou queda", "d": 2}], "themes": ["corpo"], "lemma": "FERIDA"}
+{"answer": "PENSO", "clues": [{"t": "Curativo que se põe sobre uma ferida", "d": 1, "s": "Curativo"}, {"t": "Gaze ou adesivo para tapar um corte", "d": 2}], "themes": ["corpo"], "lemma": "PENSO"}
+{"answer": "LIGADURA", "clues": [{"t": "Faixa de pano para apertar uma ferida", "d": 2, "s": "Faixa"}, {"t": "Atadura que imobiliza um membro partido", "d": 3}], "themes": ["corpo"], "lemma": "LIGADURA"}
+{"answer": "MULETA", "clues": [{"t": "Bastão de apoio sob o braço para andar", "d": 1, "s": "Bastão"}, {"t": "Ajuda para quem não consegue caminhar", "d": 2}], "themes": ["corpo"], "lemma": "MULETA"}
+{"answer": "SANGUE", "clues": [{"t": "Líquido vermelho que circula nas veias", "d": 1, "s": "Líquido"}, {"t": "Fluido que transporta oxigénio aos tecidos", "d": 2}], "themes": ["corpo"], "lemma": "SANGUE"}
+{"answer": "VEIA", "clues": [{"t": "Vaso sanguíneo que leva o sangue ao coração", "d": 1, "s": "Vaso"}, {"t": "Canal por onde o sangue volta ao coração", "d": 2}], "themes": ["corpo"], "lemma": "VEIA"}
+{"answer": "ARTÉRIA", "clues": [{"t": "Vaso sanguíneo que sai do coração", "d": 2, "s": "Vaso"}, {"t": "Tubo elástico que transporta sangue oxigenado", "d": 3}], "themes": ["corpo"], "lemma": "ARTÉRIA"}
+{"answer": "CORAÇÃO", "clues": [{"t": "Órgão que bombeia o sangue", "d": 1, "s": "Órgão"}, {"t": "Músculo oco que faz circular o sangue", "d": 2}], "themes": ["corpo"], "lemma": "CORAÇÃO"}
+{"answer": "PULSAÇÃO", "clues": [{"t": "Batimento sentido na artéria", "d": 2, "s": "Batimento"}, {"t": "Ritmo do coração que se sente no braço", "d": 2}], "themes": ["corpo"], "lemma": "PULSAÇÃO"}
+{"answer": "PRESSÃO", "clues": [{"t": "Força exercida sobre a parede dos vasos", "d": 3, "s": "Força"}, {"t": "Tensão do sangue nas artérias", "d": 2}], "themes": ["corpo"], "lemma": "PRESSÃO"}
+{"answer": "BATIMENTO", "clues": [{"t": "Cada contração do coração", "d": 1, "s": "Contração"}, {"t": "Ritmo cardíaco por minuto", "d": 2}], "themes": ["corpo"], "lemma": "BATIMENTO"}
+{"answer": "BRÔNQUIOS", "clues": [{"t": "Ramificações dos pulmões que levam ar", "d": 3, "s": "Ramificações"}, {"t": "Tubos que se dividem dentro dos pulmões", "d": 2}], "themes": ["corpo"], "lemma": "BRÔNQUIOS"}
+{"answer": "TRAQUEIA", "clues": [{"t": "Tubo que liga a boca aos pulmões", "d": 2, "s": "Tubo"}, {"t": "Canal de cartilagem da garganta", "d": 3}], "themes": ["corpo"], "lemma": "TRAQUEIA"}
+{"answer": "DIAFRAGMA", "clues": [{"t": "Músculo que separa o tórax do abdómen", "d": 2, "s": "Músculo"}, {"t": "Músculo que move o ar nos pulmões", "d": 3}], "themes": ["corpo"], "lemma": "DIAFRAGMA"}
+{"answer": "RESPIRAÇÃO", "clues": [{"t": "Ato de inspirar e expirar", "d": 1, "s": "Ato"}, {"t": "Troca de ar entre o corpo e o exterior", "d": 2}], "themes": ["corpo"], "lemma": "RESPIRAÇÃO"}
+{"answer": "FÔLEGO", "clues": [{"t": "Força do ar que se respira", "d": 2, "s": "Ar"}, {"t": "Capacidade de respirar com esforço", "d": 2}], "themes": ["corpo"], "lemma": "FÔLEGO"}
+{"answer": "ESPIRRO", "clues": [{"t": "Expulsão súbita de ar pelo nariz", "d": 1, "s": "Ar"}, {"t": "Reflexo que nasce quando se irrita o nariz", "d": 2}], "themes": ["corpo"], "lemma": "ESPIRRO"}
+{"answer": "TOSSE", "clues": [{"t": "Expulsão brusca de ar pela garganta", "d": 1, "s": "Sintoma"}, {"t": "Sintoma de constipação ou de gripe", "d": 2}], "themes": ["corpo"], "lemma": "TOSSE"}
+{"answer": "SOLUÇO", "clues": [{"t": "Contração involuntária do diafragma", "d": 2, "s": "Contração"}, {"t": "Espasmo que faz soar um hic", "d": 1}], "themes": ["corpo"], "lemma": "SOLUÇO"}
+{"answer": "BOCEJO", "clues": [{"t": "Inspiração funda que se faz com sono", "d": 1, "s": "Inspiração"}, {"t": "Abertura da boca que se faz de cansaço", "d": 2}], "themes": ["corpo"], "lemma": "BOCEJO"}
+{"answer": "PÂNCREAS", "clues": [{"t": "Glândula que produz insulina", "d": 3, "s": "Glândula"}, {"t": "Órgão atrás do estômago, ligado ao intestino", "d": 3}], "themes": ["corpo"], "lemma": "PÂNCREAS"}
+{"answer": "BAÇO", "clues": [{"t": "Órgão do lado esquerdo que filtra o sangue", "d": 2, "s": "Órgão"}, {"t": "Órgão linfático perto do estômago", "d": 3}], "themes": ["corpo"], "lemma": "BAÇO"}
+{"answer": "RIM", "clues": [{"t": "Órgão que filtra o sangue e produz a urina", "d": 1, "s": "Órgão"}, {"t": "Um dos dois órgãos da urina", "d": 2}], "themes": ["corpo"], "lemma": "RIM"}
+{"answer": "BEXIGA", "clues": [{"t": "Órgão que armazena a urina", "d": 2, "s": "Órgão"}, {"t": "Bolsa muscular situada na pelve", "d": 3}], "themes": ["corpo"], "lemma": "BEXIGA"}
+{"answer": "INTESTINO", "clues": [{"t": "Tubo longo do aparelho digestivo", "d": 1, "s": "Tubo"}, {"t": "Parte do tubo digestivo onde se absorvem nutrientes", "d": 3}], "themes": ["corpo"], "lemma": "INTESTINO"}
+{"answer": "APÊNDICE", "clues": [{"t": "Pequeno órgão ligado ao intestino grosso", "d": 3, "s": "Órgão"}, {"t": "Estrutura que pode inflamar e exigir operação", "d": 3}], "themes": ["corpo"], "lemma": "APÊNDICE"}
+{"answer": "VESÍCULA", "clues": [{"t": "Pequena bolsa que guarda a bílis", "d": 3, "s": "Bolsa"}, {"t": "Órgão junto ao fígado, que guarda bílis", "d": 3}], "themes": ["corpo"], "lemma": "VESÍCULA"}
+{"answer": "TIROIDE", "clues": [{"t": "Glândula do pescoço que regula o metabolismo", "d": 3, "s": "Glândula"}, {"t": "Glândula em forma de borboleta no pescoço", "d": 3}], "themes": ["corpo"], "lemma": "TIROIDE"}
+{"answer": "TIMO", "clues": [{"t": "Glândula do peito que treina os linfócitos", "d": 3, "s": "Glândula"}, {"t": "Órgão linfático atrás do esterno", "d": 3}], "themes": ["corpo"], "lemma": "TIMO"}
+{"answer": "LINFA", "clues": [{"t": "Líquido amarelado que circula nos vasos", "d": 3, "s": "Líquido"}, {"t": "Fluido que limpa os tecidos do corpo", "d": 2}], "themes": ["corpo"], "lemma": "LINFA"}
+{"answer": "GÂNGLIO", "clues": [{"t": "Pequena massa de tecido nervoso ou linfático", "d": 3, "s": "Massa"}, {"t": "Nódulo que incha quando há infeção", "d": 2}], "themes": ["corpo"], "lemma": "GÂNGLIO"}
+{"answer": "AMÍGDALAS", "clues": [{"t": "Massas de tecido na garganta, atrás da língua", "d": 2, "s": "Tecido"}, {"t": "Órgãos linfáticos da entrada da garganta", "d": 3}], "themes": ["corpo"], "lemma": "AMÍGDALAS"}
+{"answer": "ADENOIDES", "clues": [{"t": "Tecido linfático atrás do nariz", "d": 3, "s": "Tecido"}, {"t": "Órgão na parte de trás do nariz, nas crianças", "d": 3}], "themes": ["corpo"], "lemma": "ADENOIDES"}
+{"answer": "MUCOSA", "clues": [{"t": "Membrana húmida que reveste o nariz", "d": 2, "s": "Membrana"}, {"t": "Película húmida que cobre o interior do corpo", "d": 2}], "themes": ["corpo"], "lemma": "MUCOSA"}
+{"answer": "PALATO", "clues": [{"t": "Teto da boca, com parte óssea e mole", "d": 2, "s": "Teto"}, {"t": "Parte superior interior da boca", "d": 2}], "themes": ["corpo"], "lemma": "PALATO"}
+{"answer": "GENGIVA", "clues": [{"t": "Tecido mole que envolve a base dos dentes", "d": 1, "s": "Tecido"}, {"t": "Carne rosada que segura os dentes", "d": 2}], "themes": ["corpo"], "lemma": "GENGIVA"}
+{"answer": "ESMALTE", "clues": [{"t": "Camada branca e dura que cobre o dente", "d": 2, "s": "Camada"}, {"t": "Revestimento exterior mais duro do dente", "d": 2}], "themes": ["corpo"], "lemma": "ESMALTE"}
+{"answer": "DENTINA", "clues": [{"t": "Tecido duro sob o esmalte, por baixo da coroa", "d": 3, "s": "Tecido"}, {"t": "Camada óssea que sustenta o esmalte", "d": 3}], "themes": ["corpo"], "lemma": "DENTINA"}
+{"answer": "PRÉMOLAR", "clues": [{"t": "Dente entre o canino e o molar", "d": 3, "s": "Dente"}, {"t": "Dente de adulto usado para triturar", "d": 3}], "themes": ["corpo"], "lemma": "PRÉMOLAR"}
+{"answer": "MOLAR", "clues": [{"t": "Dente largo do fundo da boca, para mastigar", "d": 1, "s": "Dente"}, {"t": "Dente de trituração situado atrás", "d": 2}], "themes": ["corpo"], "lemma": "MOLAR"}
+{"answer": "CANINO", "clues": [{"t": "Dente pontiagudo para rasgar a comida", "d": 1, "s": "Dente"}, {"t": "Dente afiado entre o incisivo e o pré-molar", "d": 3}], "themes": ["corpo"], "lemma": "CANINO"}
+{"answer": "INCISIVO", "clues": [{"t": "Dente da frente, para cortar", "d": 1, "s": "Dente"}, {"t": "Dente plano e afiado à frente da boca", "d": 2}], "themes": ["corpo"], "lemma": "INCISIVO"}
+{"answer": "SISO", "clues": [{"t": "Último dente molar, o do juízo", "d": 2, "s": "Dente"}, {"t": "Dente do fundo que nasce tarde", "d": 2}], "themes": ["corpo"], "lemma": "SISO"}
+{"answer": "CÁRIE", "clues": [{"t": "Buraco no dente causado por bactérias", "d": 2, "s": "Buraco"}, {"t": "Destruição do esmalte pelo açúcar", "d": 2}], "themes": ["corpo"], "lemma": "CÁRIE"}
+{"answer": "HIGIENE", "clues": [{"t": "Conjunto de práticas para manter o corpo limpo", "d": 1, "s": "Limpeza"}, {"t": "Boas práticas para evitar doenças e sujidade", "d": 2}], "themes": ["corpo"], "lemma": "HIGIENE"}
+{"answer": "BANHO", "clues": [{"t": "Ato de lavar o corpo com água", "d": 1, "s": "Ato"}, {"t": "Imersão em água, para limpar ou relaxar", "d": 2}], "themes": ["corpo"], "lemma": "BANHO"}
+{"answer": "ESPONJA", "clues": [{"t": "Material poroso para esfregar o corpo", "d": 1, "s": "Material"}, {"t": "Objeto macio que retém a água", "d": 2}], "themes": ["corpo"], "lemma": "ESPONJA"}
+{"answer": "DESODORANTE", "clues": [{"t": "Produto que evita o cheiro corporal", "d": 1, "s": "Produto"}, {"t": "Cosmético que se aplica nas axilas", "d": 2}], "themes": ["corpo"], "lemma": "DESODORANTE"}
+{"answer": "PERFUME", "clues": [{"t": "Líquido aromático para a pele", "d": 1, "s": "Aroma"}, {"t": "Essência que se borrifa no pulso", "d": 2}], "themes": ["corpo"], "lemma": "PERFUME"}
+{"answer": "COLÓNIA", "clues": [{"t": "Água perfumada, leve e refrescante", "d": 2, "s": "Perfume"}, {"t": "Perfume ligeiro à base de álcool e limão", "d": 3}], "themes": ["corpo"], "lemma": "COLÓNIA"}
+{"answer": "CREME", "clues": [{"t": "Produto gordo para hidratar a pele", "d": 1, "s": "Produto"}, {"t": "Pasta gorda para tratar a pele", "d": 2}], "themes": ["corpo"], "lemma": "CREME"}
+{"answer": "PROTETOR", "clues": [{"t": "Creme que resguarda da radiação solar", "d": 2, "s": "Creme"}, {"t": "Loção que evita queimaduras ao sol", "d": 2}], "themes": ["corpo"], "lemma": "PROTETOR"}
+{"answer": "BRONZEADOR", "clues": [{"t": "Creme que escurece a pele ao sol", "d": 2, "s": "Creme"}, {"t": "Loção que dá cor à pele ao sol", "d": 2}], "themes": ["corpo"], "lemma": "BRONZEADOR"}
+{"answer": "ESCALDÃO", "clues": [{"t": "Queimadura causada por água quente ou vapor", "d": 2, "s": "Queimadura"}, {"t": "Lesão da pele provocada por líquido a ferver", "d": 2}], "themes": ["corpo"], "lemma": "ESCALDÃO"}
+{"answer": "QUEIMADURA", "clues": [{"t": "Lesão causada pelo fogo ou pelo calor", "d": 1, "s": "Lesão"}, {"t": "Marca que o calor deixa na pele", "d": 2}], "themes": ["corpo"], "lemma": "QUEIMADURA"}
+{"answer": "BOLHA", "clues": [{"t": "Pequena elevação da pele cheia de líquido", "d": 1, "s": "Elevação"}, {"t": "Saco de líquido que nasce sob a pele", "d": 2}], "themes": ["corpo"], "lemma": "BOLHA"}
+{"answer": "PUS", "clues": [{"t": "Líquido amarelo que sai de uma ferida infetada", "d": 2, "s": "Líquido"}, {"t": "Secreção espessa de uma infeção", "d": 2}], "themes": ["corpo"], "lemma": "PUS"}
+{"answer": "INFEÇÃO", "clues": [{"t": "Doença causada por microrganismos", "d": 1, "s": "Doença"}, {"t": "Invasão do corpo por bactérias ou vírus", "d": 2}], "themes": ["corpo"], "lemma": "INFEÇÃO"}
+{"answer": "VÍRUS", "clues": [{"t": "Agente infecioso muito pequeno", "d": 2, "s": "Agente"}, {"t": "Micróbio que se multiplica dentro das células", "d": 2}], "themes": ["corpo"], "lemma": "VÍRUS"}
+{"answer": "BACTÉRIA", "clues": [{"t": "Microrganismo unicelular, por vezes causador de doenças", "d": 2, "s": "Micróbio"}, {"t": "Ser vivo microscópico sem núcleo", "d": 2}], "themes": ["corpo"], "lemma": "BACTÉRIA"}
+{"answer": "FUNGO", "clues": [{"t": "Organismo sem clorofila, como o bolor", "d": 2, "s": "Organismo"}, {"t": "Micróbio que causa micoses na pele", "d": 2}], "themes": ["corpo"], "lemma": "FUNGO"}
+{"answer": "PARASITA", "clues": [{"t": "Ser vivo que vive à custa de outro", "d": 2, "s": "Ser vivo"}, {"t": "Organismo que se aloja no corpo de outro", "d": 3}], "themes": ["corpo"], "lemma": "PARASITA"}
+{"answer": "ALERGIA", "clues": [{"t": "Reação exagerada do sistema imunitário", "d": 2, "s": "Reação"}, {"t": "Reação do corpo a substâncias inofensivas", "d": 2}], "themes": ["corpo"], "lemma": "ALERGIA"}
+{"answer": "ASMA", "clues": [{"t": "Doença que estreita os brônquios", "d": 2, "s": "Doença"}, {"t": "Dificuldade em respirar, com chiado no peito", "d": 2}], "themes": ["corpo"], "lemma": "ASMA"}
+{"answer": "DIABETES", "clues": [{"t": "Doença em que o açúcar sobe no sangue", "d": 2, "s": "Doença"}, {"t": "Patologia que exige controlo da insulina", "d": 3}], "themes": ["corpo"], "lemma": "DIABETES"}
+{"answer": "ANEMIA", "clues": [{"t": "Falta de glóbulos vermelhos ou de ferro", "d": 2, "s": "Carência"}, {"t": "Carência de hemoglobina no sangue", "d": 3}], "themes": ["corpo"], "lemma": "ANEMIA"}
+{"answer": "GRIPE", "clues": [{"t": "Doença viral com febre e dores musculares", "d": 1, "s": "Doença"}, {"t": "Infeção respiratória de inverno", "d": 2}], "themes": ["corpo"], "lemma": "GRIPE"}
+{"answer": "CONSTIPAÇÃO", "clues": [{"t": "Infeção leve das vias respiratórias", "d": 1, "s": "Resfriado"}, {"t": "Nariz entupido e espirros, com ou sem febre", "d": 2}], "themes": ["corpo"], "lemma": "CONSTIPAÇÃO"}
+{"answer": "FEBRE", "clues": [{"t": "Subida da temperatura do corpo", "d": 1, "s": "Temperatura"}, {"t": "Sintoma de infeção, com calafrios", "d": 2}], "themes": ["corpo"], "lemma": "FEBRE"}
+{"answer": "TERMÓMETRO", "clues": [{"t": "Instrumento que mede a temperatura", "d": 1, "s": "Instrumento"}, {"t": "Aparelho que se põe debaixo da língua", "d": 2}], "themes": ["corpo"], "lemma": "TERMÓMETRO"}
+{"answer": "XAROPE", "clues": [{"t": "Medicamento líquido e doce para a tosse", "d": 1, "s": "Remédio"}, {"t": "Calda grossa com princípio ativo", "d": 2}], "themes": ["corpo"], "lemma": "XAROPE"}
+{"answer": "COMPRIMIDO", "clues": [{"t": "Pastilha de medicamento para engolir", "d": 1, "s": "Pastilha"}, {"t": "Dose sólida de remédio, em forma redonda", "d": 2}], "themes": ["corpo"], "lemma": "COMPRIMIDO"}
+{"answer": "DOSE", "clues": [{"t": "Quantidade de medicamento a tomar", "d": 1, "s": "Quantidade"}, {"t": "Porção de remédio prescrita pelo médico", "d": 2}], "themes": ["corpo"], "lemma": "DOSE"}
+{"answer": "ANÁLISE", "clues": [{"t": "Exame feito a uma amostra de sangue ou urina", "d": 1, "s": "Exame"}, {"t": "Exame laboratorial que mede valores do corpo", "d": 2}], "themes": ["corpo"], "lemma": "ANÁLISE"}
+{"answer": "RAIOX", "clues": [{"t": "Imagem de dentro do corpo tirada com radiação", "d": 1, "s": "Imagem"}, {"t": "Exame que mostra os ossos por dentro", "d": 2}], "themes": ["corpo"], "lemma": "RAIOX"}
+{"answer": "ECOGRAFIA", "clues": [{"t": "Exame com ultrassons para ver órgãos", "d": 2, "s": "Exame"}, {"t": "Imagem obtida por ondas sonoras", "d": 2}], "themes": ["corpo"], "lemma": "ECOGRAFIA"}
+{"answer": "TAC", "clues": [{"t": "Exame de imagem em camadas, com raios X", "d": 2, "s": "Exame"}, {"t": "Tomografia axial computorizada", "d": 3}], "themes": ["corpo"], "lemma": "TAC"}
+{"answer": "RESSONÂNCIA", "clues": [{"t": "Exame magnético que mostra tecidos moles", "d": 2, "s": "Exame"}, {"t": "Imagem obtida com ímanes potentes", "d": 3}], "themes": ["corpo"], "lemma": "RESSONÂNCIA"}
+{"answer": "VACINA", "clues": [{"t": "Substância que protege contra uma doença", "d": 1, "s": "Proteção"}, {"t": "Preparado que treina o sistema imunitário", "d": 2}], "themes": ["corpo"], "lemma": "VACINA"}
+{"answer": "SERINGA", "clues": [{"t": "Instrumento com agulha para injetar líquidos", "d": 1, "s": "Instrumento"}, {"t": "Peça com êmbolo e agulha para injeções", "d": 2}], "themes": ["corpo"], "lemma": "SERINGA"}
+{"answer": "ALGODÃO", "clues": [{"t": "Fibra macia usada para limpar feridas", "d": 1, "s": "Fibra"}, {"t": "Tecido de fibra natural, muito macio", "d": 2}], "themes": ["corpo"], "lemma": "ALGODÃO"}
+{"answer": "ÁLCOOL", "clues": [{"t": "Desinfetante de cor transparente e cheiro forte", "d": 2, "s": "Desinfetante"}, {"t": "Líquido usado para desinfetar a pele", "d": 2}], "themes": ["corpo"], "lemma": "ÁLCOOL"}
+{"answer": "IODO", "clues": [{"t": "Desinfetante castanho usado em feridas", "d": 2, "s": "Desinfetante"}, {"t": "Elemento químico usado em antissépticos", "d": 3}], "themes": ["corpo"], "lemma": "IODO"}
+{"answer": "SONO", "clues": [{"t": "Estado de repouso em que se fecham os olhos", "d": 1, "s": "Repouso"}, {"t": "Necessidade que se sente à noite", "d": 2}], "themes": ["corpo"], "lemma": "SONO"}
+{"answer": "INSÓNIA", "clues": [{"t": "Dificuldade persistente em adormecer", "d": 2, "s": "Dificuldade"}, {"t": "Falta de sono que se prolonga por noites", "d": 2}], "themes": ["corpo"], "lemma": "INSÓNIA"}
+{"answer": "PESADELO", "clues": [{"t": "Sonho aflitivo que assusta", "d": 1, "s": "Sonho"}, {"t": "Sonho mau, com medo e angústia", "d": 2}], "themes": ["corpo"], "lemma": "PESADELO"}
+{"answer": "SONÂMBULO", "clues": [{"t": "Pessoa que anda a dormir", "d": 2, "s": "Pessoa"}, {"t": "Quem caminha durante o sono", "d": 2}], "themes": ["corpo"], "lemma": "SONÂMBULO"}
+{"answer": "RONCO", "clues": [{"t": "Ruído que se faz ao dormir de boca aberta", "d": 1, "s": "Ruído"}, {"t": "Som grave e áspero que sai do nariz à noite", "d": 2}], "themes": ["corpo"], "lemma": "RONCO"}
+{"answer": "APNEIA", "clues": [{"t": "Pausa involuntária da respiração durante o sono", "d": 3, "s": "Pausa"}, {"t": "Interrupção da respiração à noite", "d": 3}], "themes": ["corpo"], "lemma": "APNEIA"}
+{"answer": "DESCANSO", "clues": [{"t": "Momento de sossego para repor energia", "d": 2, "s": "Pausa"}, {"t": "Pausa para recuperar as forças", "d": 1}], "themes": ["corpo"], "lemma": "DESCANSO"}
+{"answer": "FADIGA", "clues": [{"t": "Cansaço muito grande", "d": 1, "s": "Cansaço"}, {"t": "Esgotamento físico ou mental", "d": 2}], "themes": ["corpo"], "lemma": "FADIGA"}
+{"answer": "STRESSE", "clues": [{"t": "Tensão que o corpo sente perante desafios", "d": 1, "s": "Tensão"}, {"t": "Pressão emocional causada por preocupações", "d": 2}], "themes": ["corpo"], "lemma": "STRESSE"}
+{"answer": "ANSIEDADE", "clues": [{"t": "Inquietação e medo sem motivo claro", "d": 2, "s": "Inquietação"}, {"t": "Preocupação excessiva com o futuro", "d": 2}], "themes": ["corpo"], "lemma": "ANSIEDADE"}
+{"answer": "DEPRESSÃO", "clues": [{"t": "Tristeza prolongada e falta de energia", "d": 2, "s": "Tristeza"}, {"t": "Estado de abatimento que pode ser tratado", "d": 3}], "themes": ["corpo"], "lemma": "DEPRESSÃO"}
+{"answer": "TERAPIA", "clues": [{"t": "Tratamento para uma doença ou perturbação", "d": 2, "s": "Tratamento"}, {"t": "Conjunto de técnicas para tratar o corpo ou a mente", "d": 2}], "themes": ["corpo"], "lemma": "TERAPIA"}
+{"answer": "PSICÓLOGO", "clues": [{"t": "Profissional que estuda a mente e o comportamento", "d": 2, "s": "Profissional"}, {"t": "Especialista em conversas que ajudam o bem-estar", "d": 3}], "themes": ["corpo"], "lemma": "PSICÓLOGO"}
+{"answer": "PSIQUIATRA", "clues": [{"t": "Médico especialista em doenças mentais", "d": 2, "s": "Médico"}, {"t": "Clínico que trata perturbações do pensamento", "d": 3}], "themes": ["corpo"], "lemma": "PSIQUIATRA"}
+{"answer": "MEMÓRIA", "clues": [{"t": "Capacidade de guardar e recordar factos", "d": 1, "s": "Capacidade"}, {"t": "Faculdade que guarda as experiências passadas", "d": 2}], "themes": ["corpo"], "lemma": "MEMÓRIA"}
+{"answer": "CÉREBRO", "clues": [{"t": "Órgão central do sistema nervoso, dentro do crânio", "d": 1, "s": "Órgão"}, {"t": "Massa cinzenta que pensa e comanda o corpo", "d": 2}], "themes": ["corpo"], "lemma": "CÉREBRO"}
+{"answer": "NEURÓNIO", "clues": [{"t": "Célula do sistema nervoso que transmite impulsos", "d": 2, "s": "Célula"}, {"t": "Célula nervosa que comunica por sinapses", "d": 3}], "themes": ["corpo"], "lemma": "NEURÓNIO"}
+{"answer": "SINAPSE", "clues": [{"t": "Junção entre dois neurónios", "d": 3, "s": "Junção"}, {"t": "Ponto de contacto entre células nervosas", "d": 3}], "themes": ["corpo"], "lemma": "SINAPSE"}
+{"answer": "MEDO", "clues": [{"t": "Sentimento que surge perante o perigo", "d": 1, "s": "Sentimento"}, {"t": "Receio intenso de algo que ameaça", "d": 2}], "themes": ["corpo"], "lemma": "MEDO"}
+{"answer": "FOBIA", "clues": [{"t": "Medo irracional e persistente", "d": 2, "s": "Medo"}, {"t": "Temor exagerado de certo objeto ou situação", "d": 3}], "themes": ["corpo"], "lemma": "FOBIA"}
+{"answer": "CORAGEM", "clues": [{"t": "Qualidade de quem enfrenta o perigo", "d": 1, "s": "Qualidade"}, {"t": "Força que permite vencer o medo", "d": 2}], "themes": ["corpo"], "lemma": "CORAGEM"}
+{"answer": "CALAFRIO", "clues": [{"t": "Arrepio de frio ou de febre", "d": 2, "s": "Arrepio"}, {"t": "Tremor do corpo causado pelo frio", "d": 2}], "themes": ["corpo"], "lemma": "CALAFRIO"}
+{"answer": "ARREPIO", "clues": [{"t": "Frio na pele provocado pelo medo", "d": 2, "s": "Frio"}, {"t": "Tremor súbito na pele", "d": 2}], "themes": ["corpo"], "lemma": "ARREPIO"}
+{"answer": "LÁGRIMA", "clues": [{"t": "Líquido salgado que sai dos olhos", "d": 1, "s": "Líquido"}, {"t": "Gota que se derrama quando se chora", "d": 2}], "themes": ["corpo"], "lemma": "LÁGRIMA"}
+{"answer": "CHORO", "clues": [{"t": "Ato de deitar lágrimas de tristeza", "d": 2, "s": "Lágrimas"}, {"t": "Lamento em voz alta, com lágrimas", "d": 2}], "themes": ["corpo"], "lemma": "CHORO"}
+{"answer": "RISO", "clues": [{"t": "Expressão de alegria com som", "d": 1, "s": "Expressão"}, {"t": "Som que se faz quando algo nos diverte", "d": 2}], "themes": ["corpo"], "lemma": "RISO"}
+{"answer": "GARGALHADA", "clues": [{"t": "Riso forte e barulhento", "d": 1, "s": "Riso"}, {"t": "Explosão de riso sonoro e prolongado", "d": 2}], "themes": ["corpo"], "lemma": "GARGALHADA"}
+{"answer": "SORRISO", "clues": [{"t": "Curvatura dos lábios que mostra alegria", "d": 1, "s": "Expressão"}, {"t": "Expressão de contentamento na boca", "d": 2}], "themes": ["corpo"], "lemma": "SORRISO"}
+{"answer": "BEIJO", "clues": [{"t": "Toque suave com os lábios", "d": 1, "s": "Toque"}, {"t": "Gesto de carinho com os lábios", "d": 2}], "themes": ["corpo"], "lemma": "BEIJO"}
+{"answer": "ABRAÇO", "clues": [{"t": "Gesto de afeto com os braços", "d": 1, "s": "Gesto"}, {"t": "Aperto afetuoso entre duas pessoas", "d": 2}], "themes": ["corpo"], "lemma": "ABRAÇO"}
+{"answer": "RUGA", "clues": [{"t": "Vinco na pele causado pela idade", "d": 1, "s": "Vinco"}, {"t": "Linha que se forma na pele com o tempo", "d": 2}], "themes": ["corpo"], "lemma": "RUGA"}
+{"answer": "CABELO", "clues": [{"t": "Conjunto de fios que nascem no couro", "d": 1, "s": "Fios"}, {"t": "Fio comprido que se penteia", "d": 2}], "themes": ["corpo"], "lemma": "CABELO"}
+{"answer": "ÚTERO", "clues": [{"t": "Órgão onde se desenvolve o feto na gravidez", "d": 1, "s": "Órgão"}, {"t": "Cavidade muscular em forma de pera na pelve", "d": 3}], "themes": ["corpo"], "lemma": "ÚTERO"}
+{"answer": "ABDÓMEN", "clues": [{"t": "Zona do corpo entre o tórax e a bacia", "d": 1, "s": "Zona"}, {"t": "Cavidade que alberga o estômago e os intestinos", "d": 2}], "themes": ["corpo"], "lemma": "ABDÓMEN"}
+{"answer": "FÍGADO", "clues": [{"t": "Órgão maior do corpo que produz a bílis", "d": 1, "s": "Órgão"}, {"t": "Glândula que filtra o sangue e armazena vitaminas", "d": 2}], "themes": ["corpo"], "lemma": "FÍGADO"}
+{"answer": "ESQUELETO", "clues": [{"t": "Conjunto dos ossos que sustenta o corpo", "d": 1, "s": "Ossos"}, {"t": "Estrutura óssea que dá forma ao organismo", "d": 2}], "themes": ["corpo"], "lemma": "ESQUELETO"}
+{"answer": "TENDÃO", "clues": [{"t": "Cordão fibroso que liga o músculo ao osso", "d": 1}, {"t": "Tecido resistente que transmite a força muscular", "d": 3, "s": "Tecido"}], "themes": ["corpo"], "lemma": "TENDÃO"}
+{"answer": "ESÓFAGO", "clues": [{"t": "Canal que liga a garganta ao estômago", "d": 2, "s": "Canal"}, {"t": "Tubo muscular por onde desce a comida", "d": 3}], "themes": ["corpo"], "lemma": "ESÓFAGO"}
+{"answer": "LÁBIO", "clues": [{"t": "Cada uma das bordas carnudas da boca", "d": 1, "s": "Boca"}, {"t": "Prega de tecido que delimita a boca", "d": 2}], "themes": ["corpo"], "lemma": "LÁBIO"}
+{"answer": "ÚMERO", "clues": [{"t": "Osso do braço entre o ombro e o cotovelo", "d": 2, "s": "Osso"}, {"t": "Osso longo que liga a omoplata ao antebraço", "d": 3}], "themes": ["corpo"], "lemma": "ÚMERO"}
+{"answer": "FÉMUR", "clues": [{"t": "Osso mais comprido e resistente do corpo", "d": 1, "s": "Osso"}, {"t": "Osso da coxa que se articula com a bacia", "d": 2}], "themes": ["corpo"], "lemma": "FÉMUR"}
+{"answer": "ESTERNO", "clues": [{"t": "Osso achatado no meio do peito", "d": 2}, {"t": "Osso onde se prendem as costelas à frente", "d": 3}], "themes": ["corpo"], "lemma": "ESTERNO"}
+{"answer": "CÓRNEA", "clues": [{"t": "Membrana transparente que cobre a frente do olho", "d": 2}, {"t": "Camada frontal que deixa a luz passar", "d": 3}], "themes": ["corpo"], "lemma": "CÓRNEA"}
+{"answer": "RETINA", "clues": [{"t": "Camada do olho sensível à luz", "d": 2, "s": "Olho"}, {"t": "Tecido ocular onde se formam as imagens", "d": 3}], "themes": ["corpo"], "lemma": "RETINA"}
+{"answer": "PUPILA", "clues": [{"t": "Abertura circular no centro da íris", "d": 1, "s": "Olho"}, {"t": "Orifício do olho que aumenta ou diminui com a luz", "d": 2}], "themes": ["corpo"], "lemma": "PUPILA"}
+{"answer": "LARINGE", "clues": [{"t": "Órgão da garganta onde ficam as cordas vocais", "d": 2, "s": "Órgão"}, {"t": "Estrutura que liga a faringe à traqueia", "d": 3}], "themes": ["corpo"], "lemma": "LARINGE"}
+{"answer": "VISÃO", "clues": [{"t": "Sentido que permite distinguir cores e formas", "d": 1, "s": "Sentido"}, {"t": "Capacidade de captar a luz pelos olhos", "d": 2}], "themes": ["corpo"], "lemma": "VISÃO"}
+{"answer": "AUDIÇÃO", "clues": [{"t": "Sentido que permite perceber os sons", "d": 1, "s": "Sentido"}, {"t": "Capacidade de captar as ondas sonoras pelo ouvido", "d": 2}], "themes": ["corpo"], "lemma": "AUDIÇÃO"}
+{"answer": "OLFATO", "clues": [{"t": "Sentido que permite perceber cheiros", "d": 1, "s": "Sentido"}, {"t": "Capacidade do nariz para detetar odores", "d": 2}], "themes": ["corpo"], "lemma": "OLFATO"}
+{"answer": "PALADAR", "clues": [{"t": "Sentido que distingue o doce do salgado", "d": 1}, {"t": "Capacidade da língua para reconhecer sabores", "d": 2}], "themes": ["corpo"], "lemma": "PALADAR"}
+{"answer": "TATO", "clues": [{"t": "Sentido que permite sentir texturas e pressão", "d": 1, "s": "Sentido"}, {"t": "Capacidade da pele para detetar o contacto", "d": 2}], "themes": ["corpo"], "lemma": "TATO"}
+{"answer": "ENXAQUECA", "clues": [{"t": "Dor de cabeça intensa, muitas vezes de um lado", "d": 2, "s": "Dor"}, {"t": "Cefaleia forte e pulsátil, por vezes com náuseas", "d": 3}], "themes": ["corpo"], "lemma": "ENXAQUECA"}
+{"answer": "URTICÁRIA", "clues": [{"t": "Erupção cutânea de vergões que surgem e desaparecem", "d": 2, "s": "Pele"}, {"t": "Reação alérgica com placas vermelhas e comichão", "d": 3}], "themes": ["corpo"], "lemma": "URTICÁRIA"}
+{"answer": "SARAMPO", "clues": [{"t": "Doença viral que deixa manchas vermelhas pelo corpo", "d": 1}, {"t": "Infeção muito contagiosa com febre e erupção", "d": 2}], "themes": ["corpo"], "lemma": "SARAMPO"}
+{"answer": "CATAPORA", "clues": [{"t": "Doença infantil com bolhas que provocam comichão", "d": 2, "s": "Doença"}, {"t": "Infeção viral da pele também chamada varicela", "d": 3}], "themes": ["corpo"], "lemma": "CATAPORA"}
+{"answer": "RUBÉOLA", "clues": [{"t": "Doença viral com erupção rosada e febre ligeira", "d": 3}, {"t": "Infeção que é grave se apanhada na gravidez", "d": 2}], "themes": ["corpo"], "lemma": "RUBÉOLA"}
+{"answer": "CAXUMBA", "clues": [{"t": "Infeção viral que incha as glândulas da face", "d": 2, "s": "Infeção"}, {"t": "Doença infantil com dor ao mastigar", "d": 1}], "themes": ["corpo"], "lemma": "CAXUMBA"}
+{"answer": "TÉTANO", "clues": [{"t": "Doença bacteriana que causa espasmos musculares", "d": 2, "s": "Doença"}, {"t": "Infeção grave que costuma entrar por feridas", "d": 3}], "themes": ["corpo"], "lemma": "TÉTANO"}
+{"answer": "SINUSITE", "clues": [{"t": "Inflamação das cavidades ósseas do nariz", "d": 2}, {"t": "Constipação persistente com dor na face", "d": 1}], "themes": ["corpo"], "lemma": "SINUSITE"}
+{"answer": "FARINGITE", "clues": [{"t": "Inflamação da garganta", "d": 1, "s": "Garganta"}, {"t": "Inflamação que dói ao engolir saliva", "d": 2}], "themes": ["corpo"], "lemma": "FARINGITE"}
+{"answer": "OTITE", "clues": [{"t": "Inflamação do ouvido", "d": 1}, {"t": "Infeção que dói no canal auditivo", "d": 2}], "themes": ["corpo"], "lemma": "OTITE"}
+{"answer": "CONJUNTIVITE", "clues": [{"t": "Infeção que deixa o olho vermelho e irritado", "d": 1, "s": "Olho"}, {"t": "Inflamação da membrana que reveste o globo ocular", "d": 3}], "themes": ["corpo"], "lemma": "CONJUNTIVITE"}
+{"answer": "ENTORSE", "clues": [{"t": "Lesão de uma articulação causada por torção", "d": 1, "s": "Lesão"}, {"t": "Distensão brusca de ligamentos no tornozelo", "d": 2}], "themes": ["corpo"], "lemma": "ENTORSE"}
+{"answer": "FRATURA", "clues": [{"t": "Osso partido ou rachado por uma pancada", "d": 1}, {"t": "Rutura óssea que pode ser exposta ou fechada", "d": 3}], "themes": ["corpo"], "lemma": "FRATURA"}
+{"answer": "LUXAÇÃO", "clues": [{"t": "Osso que sai do seu lugar na articulação", "d": 2, "s": "Lesão"}, {"t": "Lesão em que a cabeça de um osso se desloca", "d": 3}], "themes": ["corpo"], "lemma": "LUXAÇÃO"}
+{"answer": "ÚLCERA", "clues": [{"t": "Ferida aberta que demora a sarar", "d": 2, "s": "Ferida"}, {"t": "Lesão aberta na pele ou na mucosa", "d": 3}], "themes": ["corpo"], "lemma": "ÚLCERA"}
+{"answer": "ECZEMA", "clues": [{"t": "Inflamação da pele com comichão e vermelhidão", "d": 2}, {"t": "Pele seca e irritada que pica e descama", "d": 3}], "themes": ["corpo"], "lemma": "ECZEMA"}
+{"answer": "ABCESSO", "clues": [{"t": "Acumulação de pus sob a pele", "d": 1, "s": "Pus"}, {"t": "Bolsa de pus que se forma numa infeção", "d": 2}], "themes": ["corpo"], "lemma": "ABCESSO"}
+{"answer": "DENTÍFRICO", "clues": [{"t": "Creme usado com a escova para limpar a boca", "d": 1, "s": "Higiene"}, {"t": "Produto com flúor que protege o esmalte", "d": 3}], "themes": ["corpo"], "lemma": "DENTÍFRICO"}
+{"answer": "TALCO", "clues": [{"t": "Pó perfumado que se espalha depois do banho", "d": 2, "s": "Higiene"}, {"t": "Mineral macio usado em pós para a pele", "d": 3}], "themes": ["corpo"], "lemma": "TALCO"}
+{"answer": "ATADURA", "clues": [{"t": "Tira de pano que envolve um membro ferido", "d": 1, "s": "Socorro"}, {"t": "Faixa que imobiliza um osso após uma lesão", "d": 2}], "themes": ["corpo"], "lemma": "ATADURA"}
+{"answer": "CURATIVO", "clues": [{"t": "Material que protege e trata uma ferida", "d": 1}, {"t": "Adesivo que se coloca sobre um corte pequeno", "d": 2}], "themes": ["corpo"], "lemma": "CURATIVO"}

@@ -1,0 +1,213 @@
+{"answer": "MAR", "clues": [{"t": "Massa de água salgada que cobre grande parte da Terra", "d": 1, "s": "Água salgada"}, {"t": "Oceano de dimensão menor, perto da costa", "d": 2}], "themes": ["mar"], "lemma": "MAR"}
+{"answer": "POLVO", "clues": [{"t": "Animal marinho de oito tentáculos", "d": 1, "s": "Molusco"}, {"t": "Cefalópode que muda de cor para se esconder", "d": 2}], "themes": ["mar"], "lemma": "POLVO"}
+{"answer": "CONCHA", "clues": [{"t": "Carapaça dura de moluscos como a ostra", "d": 2, "s": "Carapaça"}, {"t": "Revestimento calcário de muitos animais marinhos", "d": 2}], "themes": ["mar"], "lemma": "CONCHA"}
+{"answer": "AREIA", "clues": [{"t": "Grãos finos de rochas que formam a praia", "d": 1, "s": "Grãos"}, {"t": "Sedimento que forma as dunas", "d": 2}], "themes": ["mar"], "lemma": "AREIA"}
+{"answer": "ALGA", "clues": [{"t": "Planta aquática sem raízes nem flores", "d": 2, "s": "Planta"}, {"t": "Vegetal marinho que flutua nas ondas", "d": 2}], "themes": ["mar"], "lemma": "ALGA"}
+{"answer": "NAVIO", "clues": [{"t": "Grande embarcação para transporte de cargas ou passageiros", "d": 1, "s": "Embarcação"}, {"t": "Barco de grande porte, com convés", "d": 2}], "themes": ["mar"], "lemma": "NAVIO"}
+{"answer": "BARCO", "clues": [{"t": "Pequena embarcação para navegar", "d": 1, "s": "Embarcação"}, {"t": "Veículo que flutua e se move na água", "d": 2}], "themes": ["mar"], "lemma": "BARCO"}
+{"answer": "ÂNCORA", "clues": [{"t": "Peça de metal que prende o barco ao fundo", "d": 1, "s": "Peça"}, {"t": "Gancho pesado que se lança para segurar a embarcação", "d": 2}], "themes": ["mar"], "lemma": "ÂNCORA"}
+{"answer": "FAROL", "clues": [{"t": "Torre com luz que orienta os navios à noite", "d": 1, "s": "Torre"}, {"t": "Construção à beira-mar que guia os barcos", "d": 2}], "themes": ["mar"], "lemma": "FAROL"}
+{"answer": "GOLFINHO", "clues": [{"t": "Cetáceo inteligente de focinho comprido", "d": 1, "s": "Cetáceo"}, {"t": "Mamífero marinho que brinca com os barcos", "d": 2}], "themes": ["mar"], "lemma": "GOLFINHO"}
+{"answer": "FOCA", "clues": [{"t": "Mamífero marinho de pelo grosso e patas curtas", "d": 1, "s": "Mamífero"}, {"t": "Animal que descansa nas rochas e nada bem", "d": 2}], "themes": ["mar"], "lemma": "FOCA"}
+{"answer": "ORCA", "clues": [{"t": "Cetáceo preto e branco, grande predador", "d": 2, "s": "Cetáceo"}, {"t": "Baleia dentada de grande porte", "d": 2}], "themes": ["mar"], "lemma": "ORCA"}
+{"answer": "SARDINHA", "clues": [{"t": "Pequeno peixe prateado, muito apreciado assado", "d": 1, "s": "Peixe"}, {"t": "Peixe de cardume, típico de Portugal", "d": 2}], "themes": ["mar"], "lemma": "SARDINHA"}
+{"answer": "CARANGUEJO", "clues": [{"t": "Crustáceo de cinco pares de patas e pinças", "d": 1, "s": "Crustáceo"}, {"t": "Animal que anda de lado na praia", "d": 2}], "themes": ["mar"], "lemma": "CARANGUEJO"}
+{"answer": "LULA", "clues": [{"t": "Molusco de tentáculos e corpo alongado", "d": 2, "s": "Molusco"}, {"t": "Cefalópode com uma concha interna", "d": 3}], "themes": ["mar"], "lemma": "LULA"}
+{"answer": "MEDUSA", "clues": [{"t": "Animal gelatinoso que pode queimar a pele", "d": 2, "s": "Animal"}, {"t": "Cnidário com tentáculos e corpo em forma de sino", "d": 3}], "themes": ["mar"], "lemma": "MEDUSA"}
+{"answer": "RECIFE", "clues": [{"t": "Formação rochosa à flor da água, no mar", "d": 2, "s": "Rochedo"}, {"t": "Rochedo ao nível das ondas, perigoso para os barcos", "d": 2}], "themes": ["mar"], "lemma": "RECIFE"}
+{"answer": "ILHA", "clues": [{"t": "Porção de terra cercada de água por todos os lados", "d": 1, "s": "Terra"}, {"t": "Território rodeado pelo mar", "d": 2}], "themes": ["mar"], "lemma": "ILHA"}
+{"answer": "CAIS", "clues": [{"t": "Construção à beira-mar onde atracam os barcos", "d": 1, "s": "Construção"}, {"t": "Plataforma para embarque e desembarque", "d": 2}], "themes": ["mar"], "lemma": "CAIS"}
+{"answer": "REDE", "clues": [{"t": "Malha de fios usada para apanhar peixe", "d": 1, "s": "Malha"}, {"t": "Teia de fios para pescar ou para dormir", "d": 2}], "themes": ["mar"], "lemma": "REDE"}
+{"answer": "VELA", "clues": [{"t": "Pano que o vento empurra no barco", "d": 1, "s": "Pano"}, {"t": "Peça de tecido presa ao mastro", "d": 2}], "themes": ["mar"], "lemma": "VELA"}
+{"answer": "PORTO", "clues": [{"t": "Local abrigado onde os navios atracam", "d": 1, "s": "Abrigo"}, {"t": "Lugar de embarque e desembarque", "d": 2}], "themes": ["mar"], "lemma": "PORTO"}
+{"answer": "CORRENTE", "clues": [{"t": "Movimento contínuo da água do oceano", "d": 1, "s": "Movimento"}, {"t": "Fluxo de água que atravessa o mar", "d": 2}], "themes": ["mar"], "lemma": "CORRENTE"}
+{"answer": "ESPUMA", "clues": [{"t": "Massa branca que as ondas formam", "d": 1, "s": "Massa"}, {"t": "Conjunto de bolhas na crista da vaga", "d": 2}], "themes": ["mar"], "lemma": "ESPUMA"}
+{"answer": "TEMPESTADE", "clues": [{"t": "Borrasca com vento forte e chuva", "d": 1, "s": "Mau tempo"}, {"t": "Tormenta marítima com ventos violentos", "d": 2}], "themes": ["mar"], "lemma": "TEMPESTADE"}
+{"answer": "ÁGUA", "clues": [{"t": "Líquido essencial à vida, incolor e inodoro", "d": 1, "s": "Líquido"}, {"t": "Substância que cobre a maior parte do planeta", "d": 2}], "themes": ["mar"], "lemma": "ÁGUA"}
+{"answer": "ENGUIA", "clues": [{"t": "Peixe alongado que parece uma serpente", "d": 2, "s": "Peixe"}, {"t": "Peixe de água doce e salgada, sem escamas", "d": 3}], "themes": ["mar"], "lemma": "ENGUIA"}
+{"answer": "RAIA", "clues": [{"t": "Peixe achatado com cauda longa", "d": 2, "s": "Peixe"}, {"t": "Peixe de corpo largo e aspeto de losango", "d": 2}], "themes": ["mar"], "lemma": "RAIA"}
+{"answer": "FOZ", "clues": [{"t": "Local onde o rio desagua no mar", "d": 2, "s": "Desaguadouro"}, {"t": "Ponto em que um rio chega ao oceano", "d": 2}], "themes": ["mar"], "lemma": "FOZ"}
+{"answer": "COSTA", "clues": [{"t": "Limite do continente junto ao mar", "d": 1, "s": "Litoral"}, {"t": "Faixa de terra que bordeja o oceano", "d": 2}], "themes": ["mar"], "lemma": "COSTA"}
+{"answer": "PRAIA", "clues": [{"t": "Faixa de areia junto ao mar", "d": 1, "s": "Areal"}, {"t": "Zona de areia onde se toma banho de sol", "d": 2}], "themes": ["mar"], "lemma": "PRAIA"}
+{"answer": "DUNA", "clues": [{"t": "Monte de areia formado pelo vento", "d": 2, "s": "Areia"}, {"t": "Elevação de areia ao longo da costa", "d": 2}], "themes": ["mar"], "lemma": "DUNA"}
+{"answer": "CABO", "clues": [{"t": "Ponta de terra que avança para o mar", "d": 1, "s": "Ponta"}, {"t": "Promontório alto e rochoso", "d": 2}], "themes": ["mar"], "lemma": "CABO"}
+{"answer": "BAÍA", "clues": [{"t": "Entrada de mar pouco profunda, cercada de terra", "d": 2, "s": "Golfo"}, {"t": "Reentrância ampla da costa, abrigada", "d": 2}], "themes": ["mar"], "lemma": "BAÍA"}
+{"answer": "GOLFO", "clues": [{"t": "Porção de mar que entra na terra", "d": 2, "s": "Mar"}, {"t": "Grande baía de mar aberto", "d": 2}], "themes": ["mar"], "lemma": "GOLFO"}
+{"answer": "CANAL", "clues": [{"t": "Passagem de água entre duas terras", "d": 2, "s": "Passagem"}, {"t": "Estreito artificial para barcos", "d": 2}], "themes": ["mar"], "lemma": "CANAL"}
+{"answer": "ESTREITO", "clues": [{"t": "Passagem de mar entre duas terras próximas", "d": 2, "s": "Passagem"}, {"t": "Braço de mar que liga dois oceanos", "d": 3}], "themes": ["mar"], "lemma": "ESTREITO"}
+{"answer": "RESSACA", "clues": [{"t": "Movimento forte das ondas ao recuar", "d": 2, "s": "Ondas"}, {"t": "Água que volta para o mar depois da rebentação", "d": 2}], "themes": ["mar"], "lemma": "RESSACA"}
+{"answer": "PREIAMAR", "clues": [{"t": "Momento em que a maré está no ponto mais alto", "d": 3, "s": "Maré"}, {"t": "Maré cheia, no seu máximo", "d": 3}], "themes": ["mar"], "lemma": "PREIAMAR"}
+{"answer": "BAIXAMAR", "clues": [{"t": "Momento em que a maré atinge o nível mínimo", "d": 3, "s": "Maré"}, {"t": "Maré vazia, no seu mínimo", "d": 3}], "themes": ["mar"], "lemma": "BAIXAMAR"}
+{"answer": "ENCHENTE", "clues": [{"t": "Subida da maré até ao ponto mais alto", "d": 2, "s": "Maré"}, {"t": "Maré que sobe e cobre o estuário", "d": 3}], "themes": ["mar"], "lemma": "ENCHENTE"}
+{"answer": "VAZANTE", "clues": [{"t": "Descida da maré, quando a água recua", "d": 2, "s": "Maré"}, {"t": "Maré que baixa e deixa a areia a descoberto", "d": 3}], "themes": ["mar"], "lemma": "VAZANTE"}
+{"answer": "SALINA", "clues": [{"t": "Tanque raso onde se produz sal com o sol", "d": 2, "s": "Tanque"}, {"t": "Campo de evaporação da água do mar", "d": 3}], "themes": ["mar"], "lemma": "SALINA"}
+{"answer": "PESCA", "clues": [{"t": "Atividade de apanhar peixe", "d": 1, "s": "Atividade"}, {"t": "Ato de capturar animais aquáticos", "d": 2}], "themes": ["mar"], "lemma": "PESCA"}
+{"answer": "ANZOL", "clues": [{"t": "Gancho de metal para apanhar peixe", "d": 1, "s": "Gancho"}, {"t": "Peça curva com isco para pescar", "d": 2}], "themes": ["mar"], "lemma": "ANZOL"}
+{"answer": "ISCO", "clues": [{"t": "Alimento que se põe no anzol", "d": 2, "s": "Alimento"}, {"t": "Chamariz para atrair peixes", "d": 2}], "themes": ["mar"], "lemma": "ISCO"}
+{"answer": "CHUMBO", "clues": [{"t": "Peça de metal que faz afundar a linha", "d": 2, "s": "Metal"}, {"t": "Peso de metal preso à rede ou à linha", "d": 2}], "themes": ["mar"], "lemma": "CHUMBO"}
+{"answer": "BOIA", "clues": [{"t": "Objeto que flutua e assinala um ponto no mar", "d": 1, "s": "Flutuador"}, {"t": "Peça que flutua e segura a rede", "d": 2}], "themes": ["mar"], "lemma": "BOIA"}
+{"answer": "PRUMO", "clues": [{"t": "Peso preso a um fio, para medir a profundidade", "d": 3, "s": "Peso"}, {"t": "Instrumento que indica a vertical", "d": 3}], "themes": ["mar"], "lemma": "PRUMO"}
+{"answer": "LEME", "clues": [{"t": "Peça que orienta o barco", "d": 1, "s": "Peça"}, {"t": "Instrumento de direção de uma embarcação", "d": 2}], "themes": ["mar"], "lemma": "LEME"}
+{"answer": "MASTRO", "clues": [{"t": "Haste vertical que sustenta as velas", "d": 1, "s": "Haste"}, {"t": "Pau alto do navio, onde se prendem as velas", "d": 2}], "themes": ["mar"], "lemma": "MASTRO"}
+{"answer": "VELAME", "clues": [{"t": "Conjunto de panos de uma embarcação", "d": 3, "s": "Conjunto"}, {"t": "Todos os panos de um barco de navegar", "d": 3}], "themes": ["mar"], "lemma": "VELAME"}
+{"answer": "CONVÉS", "clues": [{"t": "Piso superior de um navio", "d": 2, "s": "Piso"}, {"t": "Plataforma que cobre o barco", "d": 2}], "themes": ["mar"], "lemma": "CONVÉS"}
+{"answer": "PORÃO", "clues": [{"t": "Compartimento interior do navio, onde se guarda a carga", "d": 3, "s": "Compartimento"}, {"t": "Espaço escuro no fundo do barco", "d": 2}], "themes": ["mar"], "lemma": "PORÃO"}
+{"answer": "QUILHA", "clues": [{"t": "Peça que vai pelo fundo do barco e dá estabilidade", "d": 3, "s": "Peça"}, {"t": "Viga central da embarcação", "d": 3}], "themes": ["mar"], "lemma": "QUILHA"}
+{"answer": "PROA", "clues": [{"t": "Parte da frente do barco", "d": 1, "s": "Frente"}, {"t": "Extremidade dianteira da embarcação", "d": 2}], "themes": ["mar"], "lemma": "PROA"}
+{"answer": "POPA", "clues": [{"t": "Parte de trás do barco", "d": 1, "s": "Traseira"}, {"t": "Extremidade traseira da embarcação", "d": 2}], "themes": ["mar"], "lemma": "POPA"}
+{"answer": "BORDO", "clues": [{"t": "Lateral de uma embarcação", "d": 2, "s": "Lateral"}, {"t": "Lado do navio, em direção à água", "d": 2}], "themes": ["mar"], "lemma": "BORDO"}
+{"answer": "ESCUNA", "clues": [{"t": "Veleiro de dois mastros", "d": 3, "s": "Veleiro"}, {"t": "Barco com velas e dois mastros", "d": 3}], "themes": ["mar"], "lemma": "ESCUNA"}
+{"answer": "TRAINEIRA", "clues": [{"t": "Barco de pesca tradicional, colorido", "d": 3, "s": "Barco"}, {"t": "Embarcação de pesca típica da costa portuguesa", "d": 2}], "themes": ["mar"], "lemma": "TRAINEIRA"}
+{"answer": "CARAVELA", "clues": [{"t": "Navio dos descobrimentos portugueses", "d": 2, "s": "Navio"}, {"t": "Embarcação de velas latinas dos navegadores", "d": 3}], "themes": ["mar"], "lemma": "CARAVELA"}
+{"answer": "BATEL", "clues": [{"t": "Barco pequeno de remos", "d": 3, "s": "Barco"}, {"t": "Pequena embarcação de apoio ao navio", "d": 3}], "themes": ["mar"], "lemma": "BATEL"}
+{"answer": "MOLHE", "clues": [{"t": "Muro de pedra que protege o porto das ondas", "d": 2, "s": "Muro"}, {"t": "Dique que abriga a entrada do porto", "d": 2}], "themes": ["mar"], "lemma": "MOLHE"}
+{"answer": "SEREIA", "clues": [{"t": "Criatura metade mulher e metade peixe", "d": 1, "s": "Criatura"}, {"t": "Ser fantástico que canta junto ao mar", "d": 2}], "themes": ["mar"], "lemma": "SEREIA"}
+{"answer": "CHOCO", "clues": [{"t": "Cefalópode da família da sépia", "d": 3, "s": "Cefalópode"}, {"t": "Molusco parecido com a lula, de tinta negra", "d": 3}], "themes": ["mar"], "lemma": "CHOCO"}
+{"answer": "CAMARÃO", "clues": [{"t": "Crustáceo de corpo alongado e patas finas", "d": 1, "s": "Crustáceo"}, {"t": "Animal pequeno, de carapaça e antenas longas", "d": 2}], "themes": ["mar"], "lemma": "CAMARÃO"}
+{"answer": "OSTRA", "clues": [{"t": "Molusco bivalve de concha áspera", "d": 2, "s": "Molusco"}, {"t": "Marisco que se come cru com limão", "d": 2}], "themes": ["mar"], "lemma": "OSTRA"}
+{"answer": "MEXILHÃO", "clues": [{"t": "Molusco de concha azul-escura", "d": 2, "s": "Molusco"}, {"t": "Marisco preso às rochas por fios", "d": 2}], "themes": ["mar"], "lemma": "MEXILHÃO"}
+{"answer": "BERBIGÃO", "clues": [{"t": "Marisco bivalve de areia molhada", "d": 3, "s": "Marisco"}, {"t": "Molusco que se enterra na areia", "d": 3}], "themes": ["mar"], "lemma": "BERBIGÃO"}
+{"answer": "AMEIJOA", "clues": [{"t": "Bivalve pequeno, de concha estriada", "d": 2, "s": "Bivalve"}, {"t": "Marisco de concha clara e perfumada", "d": 2}], "themes": ["mar"], "lemma": "AMEIJOA"}
+{"answer": "LAPA", "clues": [{"t": "Molusco que se prende às rochas", "d": 2, "s": "Molusco"}, {"t": "Animal de concha cónica agarrado ao rochedo", "d": 3}], "themes": ["mar"], "lemma": "LAPA"}
+{"answer": "SARGAÇO", "clues": [{"t": "Alga castanha que flutua no mar", "d": 3, "s": "Alga"}, {"t": "Alga que forma grandes mantas no oceano", "d": 3}], "themes": ["mar"], "lemma": "SARGAÇO"}
+{"answer": "ABISMO", "clues": [{"t": "Parte muito funda do oceano", "d": 2, "s": "Profundidade"}, {"t": "Lugar de grande profundidade", "d": 2}], "themes": ["mar"], "lemma": "ABISMO"}
+{"answer": "FOSSA", "clues": [{"t": "Depressão profunda no fundo do mar", "d": 3, "s": "Depressão"}, {"t": "Vala muito funda no leito oceânico", "d": 3}], "themes": ["mar"], "lemma": "FOSSA"}
+{"answer": "PLATAFORMA", "clues": [{"t": "Estrutura no mar para explorar petróleo", "d": 2, "s": "Estrutura"}, {"t": "Base de metal instalada no oceano", "d": 2}], "themes": ["mar"], "lemma": "PLATAFORMA"}
+{"answer": "NÍVEL", "clues": [{"t": "Altura da água em relação a um ponto de referência", "d": 2, "s": "Altura"}, {"t": "Altura do mar em certo momento", "d": 2}], "themes": ["mar"], "lemma": "NÍVEL"}
+{"answer": "TSUNAMI", "clues": [{"t": "Onda gigante provocada por um sismo no mar", "d": 2, "s": "Onda"}, {"t": "Maremoto de grande força", "d": 3}], "themes": ["mar"], "lemma": "TSUNAMI"}
+{"answer": "NAVEGAÇÃO", "clues": [{"t": "Arte de conduzir navios no mar", "d": 2, "s": "Arte"}, {"t": "Ato de viajar num barco com rumo definido", "d": 2}], "themes": ["mar"], "lemma": "NAVEGAÇÃO"}
+{"answer": "RUMO", "clues": [{"t": "Direção seguida por um navio", "d": 1, "s": "Direção"}, {"t": "Orientação do barco no mar", "d": 2}], "themes": ["mar"], "lemma": "RUMO"}
+{"answer": "AGULHA", "clues": [{"t": "Peça magnética da bússola que aponta o norte", "d": 2, "s": "Peça"}, {"t": "Ponteiro de bússola que indica o norte", "d": 2}], "themes": ["mar"], "lemma": "AGULHA"}
+{"answer": "BÚSSOLA", "clues": [{"t": "Instrumento que indica o norte magnético", "d": 1, "s": "Instrumento"}, {"t": "Aparelho com agulha magnética para orientação", "d": 2}], "themes": ["mar"], "lemma": "BÚSSOLA"}
+{"answer": "SEXTANTE", "clues": [{"t": "Instrumento que mede a altura dos astros", "d": 3, "s": "Instrumento"}, {"t": "Aparelho de navegação para medir ângulos", "d": 3}], "themes": ["mar"], "lemma": "SEXTANTE"}
+{"answer": "MAPA", "clues": [{"t": "Representação plana de uma área geográfica", "d": 1, "s": "Representação"}, {"t": "Desenho que mostra a costa e os portos", "d": 2}], "themes": ["mar"], "lemma": "MAPA"}
+{"answer": "CARTA", "clues": [{"t": "Mapa marítimo para a navegação", "d": 2, "s": "Mapa"}, {"t": "Documento com as profundidades e costas", "d": 3}], "themes": ["mar"], "lemma": "CARTA"}
+{"answer": "ESCALA", "clues": [{"t": "Relação entre a medida do mapa e a real", "d": 3, "s": "Relação"}, {"t": "Paragem curta durante uma viagem", "d": 2}], "themes": ["mar"], "lemma": "ESCALA"}
+{"answer": "AMARRA", "clues": [{"t": "Corrente que prende o navio à âncora", "d": 2, "s": "Corrente"}, {"t": "Cabo que segura o barco ao cais", "d": 2}], "themes": ["mar"], "lemma": "AMARRA"}
+{"answer": "ATUM", "clues": [{"t": "Peixe grande de carne vermelha, nadador veloz", "d": 1, "s": "Peixe"}, {"t": "Peixe de mar aberto, usado em conserva", "d": 2}], "themes": ["mar"], "lemma": "ATUM"}
+{"answer": "BACALHAU", "clues": [{"t": "Peixe de carne branca, muito apreciado seco e salgado", "d": 1, "s": "Peixe"}, {"t": "Peixe de mar frio, base de muitos pratos", "d": 2}], "themes": ["mar"], "lemma": "BACALHAU"}
+{"answer": "PESCADA", "clues": [{"t": "Peixe branco de carne delicada", "d": 2, "s": "Peixe"}, {"t": "Peixe parecido com a merluza", "d": 2}], "themes": ["mar"], "lemma": "PESCADA"}
+{"answer": "DOURADA", "clues": [{"t": "Peixe de mar com mancha clara na cabeça", "d": 2, "s": "Peixe"}, {"t": "Peixe de aquacultura, muito apreciado grelhado", "d": 2}], "themes": ["mar"], "lemma": "DOURADA"}
+{"answer": "ROBALO", "clues": [{"t": "Peixe de carne branca, de água salgada ou doce", "d": 3, "s": "Peixe"}, {"t": "Peixe de mar com espinhas grandes", "d": 3}], "themes": ["mar"], "lemma": "ROBALO"}
+{"answer": "LINGUADO", "clues": [{"t": "Peixe achatado que se esconde na areia", "d": 2, "s": "Peixe"}, {"t": "Peixe de corpo plano, com os dois olhos do mesmo lado", "d": 2}], "themes": ["mar"], "lemma": "LINGUADO"}
+{"answer": "SALMÃO", "clues": [{"t": "Peixe de carne cor-de-rosa que sobe os rios", "d": 2, "s": "Peixe"}, {"t": "Peixe migratório apreciado fumado", "d": 2}], "themes": ["mar"], "lemma": "SALMÃO"}
+{"answer": "TRUTA", "clues": [{"t": "Peixe de água doce, de rios frios", "d": 2, "s": "Peixe"}, {"t": "Peixe com pintas que vive em águas límpidas", "d": 2}], "themes": ["mar"], "lemma": "TRUTA"}
+{"answer": "CARPA", "clues": [{"t": "Peixe de água doce, de rios e lagos", "d": 2, "s": "Peixe"}, {"t": "Peixe grande de água parada", "d": 2}], "themes": ["mar"], "lemma": "CARPA"}
+{"answer": "CAVALA", "clues": [{"t": "Peixe azul de mar, rico em ómega 3", "d": 2, "s": "Peixe"}, {"t": "Peixe de cardume, de dorso listrado", "d": 2}], "themes": ["mar"], "lemma": "CAVALA"}
+{"answer": "CARAPAU", "clues": [{"t": "Peixe de mar, comum nas lotas portuguesas", "d": 2, "s": "Peixe"}, {"t": "Peixe prateado de mar, muito apreciado frito", "d": 2}], "themes": ["mar"], "lemma": "CARAPAU"}
+{"answer": "CONGRO", "clues": [{"t": "Peixe alongado sem escamas, parente da enguia", "d": 3, "s": "Peixe"}, {"t": "Peixe de água salgada, de corpo cilíndrico", "d": 3}], "themes": ["mar"], "lemma": "CONGRO"}
+{"answer": "MOREIA", "clues": [{"t": "Peixe de mar com dentes afiados, de cores vivas", "d": 3, "s": "Peixe"}, {"t": "Peixe que vive entre rochedos e corais", "d": 3}], "themes": ["mar"], "lemma": "MOREIA"}
+{"answer": "CACHALOTE", "clues": [{"t": "Cetáceo de cabeça enorme que caça lulas", "d": 2, "s": "Cetáceo"}, {"t": "Baleia de dentes com cabeça grande", "d": 2}], "themes": ["mar"], "lemma": "CACHALOTE"}
+{"answer": "ALBATROZ", "clues": [{"t": "Ave marinha de grandes asas que planam", "d": 2, "s": "Ave"}, {"t": "Ave que passa meses no mar sem pousar", "d": 3}], "themes": ["mar"], "lemma": "ALBATROZ"}
+{"answer": "GAIVOTA", "clues": [{"t": "Ave marinha branca e cinzenta de grito estridente", "d": 1, "s": "Ave"}, {"t": "Pássaro costeiro que apanha restos da praia", "d": 2}], "themes": ["mar"], "lemma": "GAIVOTA"}
+{"answer": "PELICANO", "clues": [{"t": "Ave com bolsa no bico para apanhar peixe", "d": 2, "s": "Ave"}, {"t": "Ave de grande bico que mergulha para pescar", "d": 2}], "themes": ["mar"], "lemma": "PELICANO"}
+{"answer": "FRAGATA", "clues": [{"t": "Ave marinha de cauda bifurcada e asas longas", "d": 3, "s": "Ave"}, {"t": "Navio de guerra antigo", "d": 3}], "themes": ["mar"], "lemma": "FRAGATA"}
+{"answer": "OCEANOGRAFIA", "clues": [{"t": "Ciência que estuda os mares", "d": 2, "s": "Ciência"}, {"t": "Estudo das águas e fundos marinhos", "d": 2}], "themes": ["mar"], "lemma": "OCEANOGRAFIA"}
+{"answer": "BATIMETRIA", "clues": [{"t": "Medição das profundidades do mar", "d": 3, "s": "Medição"}, {"t": "Estudo da profundidade dos oceanos", "d": 3}], "themes": ["mar"], "lemma": "BATIMETRIA"}
+{"answer": "SUBMERSÍVEL", "clues": [{"t": "Embarcação que pode mergulhar e explorar o fundo", "d": 3, "s": "Embarcação"}, {"t": "Veículo que navega debaixo de água", "d": 2}], "themes": ["mar"], "lemma": "SUBMERSÍVEL"}
+{"answer": "BATISCAFO", "clues": [{"t": "Veículo de mergulho para grandes profundidades", "d": 3, "s": "Veículo"}, {"t": "Submarino para explorar o fundo do oceano", "d": 3}], "themes": ["mar"], "lemma": "BATISCAFO"}
+{"answer": "ESTUÁRIO", "clues": [{"t": "Foz larga de um rio, onde a água é mista", "d": 2, "s": "Foz"}, {"t": "Região onde o rio encontra o mar", "d": 2}], "themes": ["mar"], "lemma": "ESTUÁRIO"}
+{"answer": "ARRIBA", "clues": [{"t": "Falésia alta e íngreme sobre o mar", "d": 2, "s": "Falésia"}, {"t": "Escarpa rochosa junto à costa", "d": 2}], "themes": ["mar"], "lemma": "ARRIBA"}
+{"answer": "BAIXIO", "clues": [{"t": "Banco de areia ou rocha quase à superfície", "d": 3, "s": "Banco"}, {"t": "Zona pouco funda que pode encalhar o barco", "d": 3}], "themes": ["mar"], "lemma": "BAIXIO"}
+{"answer": "NASCENTE", "clues": [{"t": "Lugar onde brota a água de um rio", "d": 2, "s": "Origem"}, {"t": "Fonte de onde brota a água", "d": 2}], "themes": ["mar"], "lemma": "NASCENTE"}
+{"answer": "BARRAGEM", "clues": [{"t": "Muro que retém a água de um rio", "d": 2, "s": "Muro"}, {"t": "Represa para armazenar água", "d": 2}], "themes": ["mar"], "lemma": "BARRAGEM"}
+{"answer": "ROTEIRO", "clues": [{"t": "Descrição de uma viagem com rumos e pontos", "d": 3, "s": "Viagem"}, {"t": "Guia de navegação de uma costa", "d": 3}], "themes": ["mar"], "lemma": "ROTEIRO"}
+{"answer": "COMPASSO", "clues": [{"t": "Instrumento para desenhar e medir distâncias no mapa", "d": 3, "s": "Instrumento"}, {"t": "Aparelho de navegação para cartas", "d": 3}], "themes": ["mar"], "lemma": "COMPASSO"}
+{"answer": "CAPITÃO", "clues": [{"t": "Comandante de um navio", "d": 1, "s": "Comandante"}, {"t": "Chefe da tripulação de um barco", "d": 2}], "themes": ["mar"], "lemma": "CAPITÃO"}
+{"answer": "PILOTO", "clues": [{"t": "Pessoa que conduz o navio entrando no porto", "d": 2, "s": "Condutor"}, {"t": "Navegador que guia a embarcação", "d": 2}], "themes": ["mar"], "lemma": "PILOTO"}
+{"answer": "GRUMETE", "clues": [{"t": "Aprendiz de marinheiro", "d": 2, "s": "Aprendiz"}, {"t": "Jovem tripulante a aprender a navegar", "d": 3}], "themes": ["mar"], "lemma": "GRUMETE"}
+{"answer": "TIMONEIRO", "clues": [{"t": "Marinheiro que controla o leme", "d": 2, "s": "Tripulante"}, {"t": "Quem segura o timão do navio", "d": 2}], "themes": ["mar"], "lemma": "TIMONEIRO"}
+{"answer": "ALMIRANTE", "clues": [{"t": "Oficial general da marinha", "d": 2, "s": "Oficial"}, {"t": "Comandante de frota naval", "d": 2}], "themes": ["mar"], "lemma": "ALMIRANTE"}
+{"answer": "COMANDANTE", "clues": [{"t": "Chefe de uma embarcação", "d": 2, "s": "Chefe"}, {"t": "Oficial que dirige o navio", "d": 2}], "themes": ["mar"], "lemma": "COMANDANTE"}
+{"answer": "COZINHEIRO", "clues": [{"t": "Pessoa que prepara as refeições a bordo", "d": 2, "s": "Cozinheiro"}, {"t": "Tripulante que faz a comida do navio", "d": 2}], "themes": ["mar"], "lemma": "COZINHEIRO"}
+{"answer": "MARINHEIRO", "clues": [{"t": "Membro da tripulação de um navio", "d": 1, "s": "Tripulante"}, {"t": "Quem trabalha a bordo de um barco", "d": 2}], "themes": ["mar"], "lemma": "MARINHEIRO"}
+{"answer": "MIRADOURO", "clues": [{"t": "Ponto alto de onde se vê a paisagem", "d": 2, "s": "Ponto alto"}, {"t": "Local alto para observar o mar", "d": 2}], "themes": ["mar"], "lemma": "MIRADOURO"}
+{"answer": "ALBUFEIRA", "clues": [{"t": "Lago artificial criado por uma barragem", "d": 3, "s": "Lago"}, {"t": "Reservatório de água de grande dimensão", "d": 3}], "themes": ["mar"], "lemma": "ALBUFEIRA"}
+{"answer": "MANGUEZAL", "clues": [{"t": "Pântano costeiro de árvores com raízes no ar", "d": 3, "s": "Pântano"}, {"t": "Floresta de árvores com raízes no lodo, entre terra e mar", "d": 3}], "themes": ["mar"], "lemma": "MANGUEZAL"}
+{"answer": "PROMONTÓRIO", "clues": [{"t": "Ponta de terra alta que avança sobre o mar", "d": 3, "s": "Cabo"}, {"t": "Elevação da costa que entra no oceano", "d": 3}], "themes": ["mar"], "lemma": "PROMONTÓRIO"}
+{"answer": "ARQUIPÉLAGO", "clues": [{"t": "Conjunto de ilhas próximas umas das outras", "d": 2, "s": "Ilhas"}, {"t": "Grupo de ilhas, como os Açores", "d": 2}], "themes": ["mar"], "lemma": "ARQUIPÉLAGO"}
+{"answer": "CONFLUÊNCIA", "clues": [{"t": "Ponto onde dois rios se juntam", "d": 3, "s": "Junção"}, {"t": "Encontro de duas correntes de água", "d": 3}], "themes": ["mar"], "lemma": "CONFLUÊNCIA"}
+{"answer": "ASTROLÁBIO", "clues": [{"t": "Instrumento antigo para medir a altura do sol e das estrelas", "d": 3, "s": "Instrumento"}, {"t": "Aparelho de navegação usado pelos descobridores", "d": 3}], "themes": ["mar"], "lemma": "ASTROLÁBIO"}
+{"answer": "QUADRANTE", "clues": [{"t": "Instrumento de navegação com um arco de noventa graus", "d": 3, "s": "Instrumento"}, {"t": "Aparelho de medir ângulos no mar", "d": 3}], "themes": ["mar"], "lemma": "QUADRANTE"}
+{"answer": "FUNDEADOURO", "clues": [{"t": "Zona onde os navios podem lançar a âncora", "d": 3, "s": "Zona"}, {"t": "Lugar abrigado para ancorar", "d": 3}], "themes": ["mar"], "lemma": "FUNDEADOURO"}
+{"answer": "ANCORADOURO", "clues": [{"t": "Local próprio para lançar o ferro do barco", "d": 3, "s": "Local"}, {"t": "Zona de água onde os barcos param", "d": 3}], "themes": ["mar"], "lemma": "ANCORADOURO"}
+{"answer": "AMARRAÇÃO", "clues": [{"t": "Ato de prender o navio ao cais", "d": 2, "s": "Ato"}, {"t": "Operação de atar o barco a um ponto fixo", "d": 3}], "themes": ["mar"], "lemma": "AMARRAÇÃO"}
+{"answer": "VELEIRO", "clues": [{"t": "Embarcação de recreio movida pelo vento", "d": 1, "s": "Embarcação"}, {"t": "Barco de velas que aproveita a brisa", "d": 2}], "themes": ["mar"], "lemma": "VELEIRO"}
+{"answer": "LAGOSTA", "clues": [{"t": "Crustáceo de grandes antenas e cauda musculada", "d": 2, "s": "Crustáceo"}, {"t": "Crustáceo espinhoso de carne saborosa", "d": 3}], "themes": ["mar"], "lemma": "LAGOSTA"}
+{"answer": "GALEÃO", "clues": [{"t": "Grande navio à vela dos séculos XVI e XVII", "d": 2, "s": "Navio"}, {"t": "Navio de carga e guerra com vários mastros", "d": 3}], "themes": ["mar"], "lemma": "GALEÃO"}
+{"answer": "ALBACORA", "clues": [{"t": "Atum de barbatanas longas e carne clara", "d": 2, "s": "Atum"}, {"t": "Peixe migrador de carne rosada muito apreciada", "d": 3}], "themes": ["mar"], "lemma": "ALBACORA"}
+{"answer": "TUBARÃO", "clues": [{"t": "Peixe cartilaginoso de dentes triangulares", "d": 1, "s": "Peixe"}, {"t": "Predador de barbatanas dorsais proeminentes", "d": 2}], "themes": ["mar"], "lemma": "TUBARÃO"}
+{"answer": "ARRASTO", "clues": [{"t": "Rede puxada pelo fundo", "d": 2, "s": "Rede"}, {"t": "Técnica de pesca com rede de fundo", "d": 3}], "themes": ["mar"], "lemma": "ARRASTO"}
+{"answer": "CARAMUJO", "clues": [{"t": "Molusco de concha enrolada em espiral", "d": 1, "s": "Molusco"}, {"t": "Animal de casca rija que rasteja lentamente", "d": 2}], "themes": ["mar"], "lemma": "CARAMUJO"}
+{"answer": "CASCO", "clues": [{"t": "Corpo oco de um navio", "d": 1}, {"t": "Estrutura externa que flutua na água", "d": 2}], "themes": ["mar"], "lemma": "CASCO"}
+{"answer": "BOMBORDO", "clues": [{"t": "Lado esquerdo de uma embarcação", "d": 2}, {"t": "Lado de um navio oposto ao estibordo", "d": 3}], "themes": ["mar"], "lemma": "BOMBORDO"}
+{"answer": "ESTALEIRO", "clues": [{"t": "Local onde se constroem e reparam navios", "d": 2, "s": "Local"}, {"t": "Área onde se edificam embarcações", "d": 3}], "themes": ["mar"], "lemma": "ESTALEIRO"}
+{"answer": "GÁVEA", "clues": [{"t": "Plataforma de vigia no topo do mastro", "d": 2}, {"t": "Patamar onde se posta o vigia de bordo", "d": 3}], "themes": ["mar"], "lemma": "GÁVEA"}
+{"answer": "NÁUTICA", "clues": [{"t": "Ciência e arte de navegar", "d": 2, "s": "Ciência"}, {"t": "Ramo do saber sobre pilotagem e navios", "d": 3}], "themes": ["mar"], "lemma": "NÁUTICA"}
+{"answer": "PLÂNCTON", "clues": [{"t": "Conjunto de organismos microscópicos flutuantes", "d": 2}, {"t": "Alimento básico de muitos peixes e baleias", "d": 3}], "themes": ["mar"], "lemma": "PLÂNCTON"}
+{"answer": "MORSA", "clues": [{"t": "Mamífero ártico de presas longas", "d": 2, "s": "Mamífero"}, {"t": "Mamífero de bigodes grossos e pele espessa", "d": 3}], "themes": ["mar"], "lemma": "MORSA"}
+{"answer": "CORVINA", "clues": [{"t": "Peixe prateado de carne branca e firme", "d": 3}, {"t": "Peixe de dorso escuro e ventre branco", "d": 3}], "themes": ["mar"], "lemma": "CORVINA"}
+{"answer": "BARRA", "clues": [{"t": "Banco de areia à entrada de um porto", "d": 2, "s": "Banco"}, {"t": "Obstáculo arenoso que limita a entrada de canais", "d": 3}], "themes": ["mar"], "lemma": "BARRA"}
+{"answer": "ESCOTA", "clues": [{"t": "Cabo que ajusta a inclinação da vela", "d": 3, "s": "Cabo"}, {"t": "Corda que controla o ângulo da vela", "d": 2}], "themes": ["mar"], "lemma": "ESCOTA"}
+{"answer": "ARMADOR", "clues": [{"t": "Dono de navios que os explora comercialmente", "d": 3}, {"t": "Proprietário de embarcações mercantes", "d": 2}], "themes": ["mar"], "lemma": "ARMADOR"}
+{"answer": "BOTE", "clues": [{"t": "Pequena embarcação a remos ou motor", "d": 1, "s": "Embarcação"}, {"t": "Barco leve e aberto, sem convés", "d": 2}], "themes": ["mar"], "lemma": "BOTE"}
+{"answer": "PIRATA", "clues": [{"t": "Salteador que assalta navios", "d": 1, "s": "Salteador"}, {"t": "Corsário sem bandeira que pilha embarcações", "d": 3}], "themes": ["mar"], "lemma": "PIRATA"}
+{"answer": "SARGO", "clues": [{"t": "Peixe de listas escuras comum na costa", "d": 2}, {"t": "Peixe de dentes incisivos fortes", "d": 3}], "themes": ["mar"], "lemma": "SARGO"}
+{"answer": "GAROUPA", "clues": [{"t": "Peixe robusto de cor acastanhada", "d": 2, "s": "Peixe"}, {"t": "Peixe grande de carne branca que vive entre rochas", "d": 3}], "themes": ["mar"], "lemma": "GAROUPA"}
+{"answer": "PREGADO", "clues": [{"t": "Peixe achatado de olhos do mesmo lado", "d": 3}, {"t": "Peixe chato que se enterra na areia", "d": 2}], "themes": ["mar"], "lemma": "PREGADO"}
+{"answer": "SOLHA", "clues": [{"t": "Peixe chato de carne fina", "d": 2}, {"t": "Peixe achatado que se camufla no fundo", "d": 3}], "themes": ["mar"], "lemma": "SOLHA"}
+{"answer": "ESPADARTE", "clues": [{"t": "Peixe de bico em forma de lança", "d": 2}, {"t": "Peixe predador de bico alongado", "d": 3}], "themes": ["mar"], "lemma": "ESPADARTE"}
+{"answer": "NASSA", "clues": [{"t": "Cesto de vime que se lança ao fundo", "d": 2}, {"t": "Armadilha de vime usada na pesca", "d": 3}], "themes": ["mar"], "lemma": "NASSA"}
+{"answer": "SALMOURA", "clues": [{"t": "Água muito salgada usada em conservas", "d": 3}, {"t": "Líquido de sal que conserva alimentos", "d": 2}], "themes": ["mar"], "lemma": "SALMOURA"}
+{"answer": "ESCAMA", "clues": [{"t": "Placa rígida que cobre a pele de um peixe", "d": 1, "s": "Peixe"}, {"t": "Lâmina córnea de revestimento de um peixe", "d": 2}], "themes": ["mar"], "lemma": "ESCAMA"}
+{"answer": "BARBATANA", "clues": [{"t": "Apêndice que ajuda o peixe a nadar", "d": 1}, {"t": "Membro achatado de peixes e cetáceos", "d": 2}], "themes": ["mar"], "lemma": "BARBATANA"}
+{"answer": "GUELRA", "clues": [{"t": "Órgão respiratório dos peixes", "d": 2, "s": "Órgão"}, {"t": "Brânquia que filtra o oxigénio da água", "d": 3}], "themes": ["mar"], "lemma": "GUELRA"}
+{"answer": "BÚZIO", "clues": [{"t": "Gastrópode de concha alongada e estreita", "d": 3}, {"t": "Molusco de concha em forma de funil", "d": 2}], "themes": ["mar"], "lemma": "BÚZIO"}
+{"answer": "PÉROLA", "clues": [{"t": "Gema formada no interior de uma ostra", "d": 2}, {"t": "Corpo brilhante e nacarado de molusco", "d": 2}], "themes": ["mar"], "lemma": "PÉROLA"}
+{"answer": "NÁUFRAGO", "clues": [{"t": "Sobrevivente de uma embarcação afundada", "d": 2}, {"t": "Pessoa salva de um navio perdido", "d": 3}], "themes": ["mar"], "lemma": "NÁUFRAGO"}
+{"answer": "NAVEGANTE", "clues": [{"t": "Quem conduz embarcações em travessias", "d": 2}, {"t": "Viajante que orienta a rota de um barco", "d": 3}], "themes": ["mar"], "lemma": "NAVEGANTE"}
+{"answer": "ABORDAGEM", "clues": [{"t": "Aproximação de uma embarcação a outra", "d": 2}, {"t": "Ato de se aproximar de outro navio", "d": 3}], "themes": ["mar"], "lemma": "ABORDAGEM"}
+{"answer": "ESTIBOR", "clues": [{"t": "Lado direito de uma embarcação", "d": 1}, {"t": "Lado oposto ao bombordo, à direita", "d": 2}], "themes": ["mar"], "lemma": "ESTIBOR"}
+{"answer": "GALERA", "clues": [{"t": "Navio a remos da Antiguidade e do Renascimento", "d": 3}, {"t": "Embarcação de remadores usada em guerras", "d": 2}], "themes": ["mar"], "lemma": "GALERA"}
+{"answer": "MOLUSCO", "clues": [{"t": "Animal de corpo mole, muitas vezes com concha", "d": 1, "s": "Animal"}, {"t": "Invertebrado de corpo mole e pé musculado", "d": 2}], "themes": ["mar"], "lemma": "MOLUSCO"}
+{"answer": "CEFALÓPODE", "clues": [{"t": "Molusco com tentáculos e olhos grandes", "d": 2}, {"t": "Classe que inclui a lula e o polvo", "d": 2}], "themes": ["mar"], "lemma": "CEFALÓPODE"}
+{"answer": "BIVALVE", "clues": [{"t": "Molusco de duas conchas articuladas", "d": 1, "s": "Molusco"}, {"t": "Animal com concha dupla, como a ostra", "d": 2}], "themes": ["mar"], "lemma": "BIVALVE"}
+{"answer": "ZARPAR", "clues": [{"t": "Deixar o porto, iniciando a viagem", "d": 1, "s": "Partir"}, {"t": "Levantar âncora e pôr-se ao largo", "d": 2}], "themes": ["mar"], "lemma": "ZARPAR"}
+{"answer": "SONDAGEM", "clues": [{"t": "Medição da profundidade das águas", "d": 2, "s": "Medição"}, {"t": "Operação de medir o fundo com fio de chumbo", "d": 3}], "themes": ["mar"], "lemma": "SONDAGEM"}
+{"answer": "CABOTAGEM", "clues": [{"t": "Navegação costeira entre portos do mesmo país", "d": 2}, {"t": "Tráfego marítimo ao longo da costa", "d": 3}], "themes": ["mar"], "lemma": "CABOTAGEM"}
+{"answer": "ESCOLHO", "clues": [{"t": "Rochedo traiçoeiro à superfície da água", "d": 2, "s": "Rochedo"}, {"t": "Pedra submersa que ameaça os barcos", "d": 3}], "themes": ["mar"], "lemma": "ESCOLHO"}
+{"answer": "ENCHOVA", "clues": [{"t": "Peixe pequeno de sabor forte, muitas vezes em conserva", "d": 2}, {"t": "Pequeno peixe prateado parente da sardinha", "d": 3, "s": "Peixe"}], "themes": ["mar"], "lemma": "ENCHOVA"}
+{"answer": "ESTIVA", "clues": [{"t": "Carga e arrumação da mercadoria a bordo", "d": 2}, {"t": "Trabalho portuário de carregar navios", "d": 3}], "themes": ["mar"], "lemma": "ESTIVA"}
+{"answer": "MARINA", "clues": [{"t": "Porto de recreio com pontões e iates", "d": 2, "s": "Porto"}, {"t": "Conjunto de embarcações de lazer atracadas", "d": 3}], "themes": ["mar"], "lemma": "MARINA"}
+{"answer": "NÁUTICO", "clues": [{"t": "Relativo à navegação e aos barcos", "d": 2}, {"t": "Da arte de conduzir navios, em termos técnicos", "d": 3}], "themes": ["mar"], "lemma": "NÁUTICO"}
+{"answer": "VIGIA", "clues": [{"t": "Pequena janela redonda num casco de navio", "d": 2, "s": "Janela"}, {"t": "Quem observa o horizonte à procura de perigos", "d": 3}], "themes": ["mar"], "lemma": "VIGIA"}
+{"answer": "ESCOTILHA", "clues": [{"t": "Abertura com tampa no convés de um navio", "d": 2, "s": "Abertura"}, {"t": "Alçapão que dá acesso ao porão", "d": 3}], "themes": ["mar"], "lemma": "ESCOTILHA"}
+{"answer": "TIMÃO", "clues": [{"t": "Roda ou barra que orienta a embarcação", "d": 2}, {"t": "Leme de navio, em linguagem antiga", "d": 3}], "themes": ["mar"], "lemma": "TIMÃO"}
+{"answer": "FUNDEAR", "clues": [{"t": "Lançar a âncora e ficar imobilizado", "d": 2}, {"t": "Deixar a embarcação presa ao leito marinho", "d": 3}], "themes": ["mar"], "lemma": "FUNDEAR"}
+{"answer": "AMARRAR", "clues": [{"t": "Prender o barco ao cais com cabo", "d": 1, "s": "Prender"}, {"t": "Atar a embarcação a um poste de cais", "d": 2}], "themes": ["mar"], "lemma": "AMARRAR"}
+{"answer": "DESATRACAR", "clues": [{"t": "Soltar o navio do cais", "d": 2}, {"t": "Afastar-se do cais ao sair do porto", "d": 3}], "themes": ["mar"], "lemma": "DESATRACAR"}
+{"answer": "ABICAR", "clues": [{"t": "Encalhar uma embarcação na praia ou margem", "d": 3}, {"t": "Dirigir a proa até à costa", "d": 2}], "themes": ["mar"], "lemma": "ABICAR"}
+{"answer": "PAIOL", "clues": [{"t": "Depósito de munições num navio de guerra", "d": 2, "s": "Depósito"}, {"t": "Armazém de munições ou mantimentos a bordo", "d": 3}], "themes": ["mar"], "lemma": "PAIOL"}
+{"answer": "CALAFETAR", "clues": [{"t": "Vedar as juntas do casco com estopa e breu", "d": 3}, {"t": "Fechar frestas num barco de madeira", "d": 2}], "themes": ["mar"], "lemma": "CALAFETAR"}
+{"answer": "CARENA", "clues": [{"t": "Parte do casco que fica submersa", "d": 2, "s": "Casco"}, {"t": "Limpeza ou reparação do fundo de um barco", "d": 3}], "themes": ["mar"], "lemma": "CARENA"}
+{"answer": "CORDAME", "clues": [{"t": "Conjunto de amarras e linhas de bordo", "d": 3}, {"t": "Aparelhos de fibra que sustentam os mastros", "d": 2}], "themes": ["mar"], "lemma": "CORDAME"}
+{"answer": "GUINCHO", "clues": [{"t": "Máquina de içar pesos com cabo enrolado", "d": 2}, {"t": "Cilindro giratório que enrola cabos", "d": 3, "s": "Cilindro"}], "themes": ["mar"], "lemma": "GUINCHO"}
+{"answer": "BRIGUE", "clues": [{"t": "Veleiro de dois mastros com velas redondas", "d": 2}, {"t": "Embarcação de vela muito usada no século XIX", "d": 3, "s": "Embarcação"}], "themes": ["mar"], "lemma": "BRIGUE"}
+{"answer": "CAÍQUE", "clues": [{"t": "Barco pequeno do Mediterrâneo a remos ou vela", "d": 3}, {"t": "Barco de passageiros do Levante e da Turquia", "d": 3}], "themes": ["mar"], "lemma": "CAÍQUE"}
+{"answer": "BARCAÇA", "clues": [{"t": "Embarcação chata usada no transporte de carga", "d": 2, "s": "Embarcação"}, {"t": "Chata de fundo plano, sem quilha", "d": 3}], "themes": ["mar"], "lemma": "BARCAÇA"}
+{"answer": "MARISCO", "clues": [{"t": "Molusco ou crustáceo comestível da costa", "d": 1}, {"t": "Animal de concha apanhado no litoral", "d": 2, "s": "Litoral"}], "themes": ["mar"], "lemma": "MARISCO"}
+{"answer": "LAMINÁRIA", "clues": [{"t": "Alga castanha de folhas largas e grossas", "d": 3, "s": "Alga"}, {"t": "Alga usada em cosmética e em adubos", "d": 2}], "themes": ["mar"], "lemma": "LAMINÁRIA"}
+{"answer": "CERCO", "clues": [{"t": "Pesca com rede que envolve o cardume", "d": 2}, {"t": "Rede que se fecha em volta dos peixes", "d": 3}], "themes": ["mar"], "lemma": "CERCO"}
+{"answer": "PALANGRE", "clues": [{"t": "Linha de pesca com muitos anzóis", "d": 2, "s": "Pesca"}, {"t": "Aparelho de pesca de longas linhas com isco", "d": 3}], "themes": ["mar"], "lemma": "PALANGRE"}
+{"answer": "ARPÃO", "clues": [{"t": "Lança com ponta farpada usada na caça à baleia", "d": 2}, {"t": "Arma de caça marítima presa a uma corda", "d": 3, "s": "Arma"}], "themes": ["mar"], "lemma": "ARPÃO"}
+{"answer": "FISGA", "clues": [{"t": "Vara de pesca com gancho metálico na ponta", "d": 2}, {"t": "Arpão pequeno de uma só ponta", "d": 3}], "themes": ["mar"], "lemma": "FISGA"}
+{"answer": "PÉLAGO", "clues": [{"t": "Vasto mar aberto, longe da costa", "d": 2, "s": "Mar"}, {"t": "Região do oceano que não toca o fundo", "d": 3}], "themes": ["mar"], "lemma": "PÉLAGO"}
+{"answer": "PORTULANO", "clues": [{"t": "Antigo mapa náutico com rumos e distâncias", "d": 3}, {"t": "Obra cartográfica dos descobrimentos", "d": 2}], "themes": ["mar"], "lemma": "PORTULANO"}
+{"answer": "SALGADO", "clues": [{"t": "Com sabor a sal, como a água do mar", "d": 1}, {"t": "Que tem muito sal dissolvido", "d": 2, "s": "Sal"}], "themes": ["mar"], "lemma": "SALGADO"}
+{"answer": "MAREJADA", "clues": [{"t": "Agitação forte do mar com ondas grandes", "d": 2, "s": "Ondas"}, {"t": "Vaga grande que sacode a costa", "d": 3}], "themes": ["mar"], "lemma": "MAREJADA"}
+{"answer": "PREAMAR", "clues": [{"t": "Maré cheia, no seu ponto mais alto", "d": 2}, {"t": "Oposto da baixa-mar", "d": 3, "s": "Maré"}], "themes": ["mar"], "lemma": "PREAMAR"}
+{"answer": "BAIXA", "clues": [{"t": "Banco de areia ou rocha perto da superfície", "d": 3}, {"t": "Parte pouco funda, perigosa à navegação", "d": 2}], "themes": ["mar"], "lemma": "BAIXA"}
+{"answer": "BICUDA", "clues": [{"t": "Peixe de focinho alongado e pontiagudo", "d": 3, "s": "Peixe"}, {"t": "Peixe com dentes afiados, de mares quentes", "d": 3}], "themes": ["mar"], "lemma": "BICUDA"}
+{"answer": "BODIÃO", "clues": [{"t": "Peixe colorido que vive entre as rochas", "d": 2, "s": "Peixe"}, {"t": "Peixe de cores vivas, frequente na costa", "d": 3}], "themes": ["mar"], "lemma": "BODIÃO"}
+{"answer": "BOGA", "clues": [{"t": "Peixe pequeno de escamas prateadas", "d": 3}, {"t": "Peixe comum nas costas portuguesas", "d": 2}], "themes": ["mar"], "lemma": "BOGA"}
+{"answer": "PARGO", "clues": [{"t": "Peixe vermelho de carne branca e saborosa", "d": 2, "s": "Peixe"}, {"t": "Peixe de cor rosada que habita fundos rochosos", "d": 3}], "themes": ["mar"], "lemma": "PARGO"}

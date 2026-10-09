@@ -1,0 +1,17 @@
+[
+  {"id": "comida", "name": "Comida", "icon": "restaurant", "color": "FF9E64"},
+  {"id": "animais", "name": "Animais", "icon": "pets", "color": "9ECE6A"},
+  {"id": "natureza", "name": "Natureza", "icon": "eco", "color": "7AA2F7"},
+  {"id": "geografia", "name": "Geografia", "icon": "public", "color": "7DCFFF"},
+  {"id": "desporto", "name": "Desporto", "icon": "sports_soccer", "color": "F7768E"},
+  {"id": "corpo", "name": "Corpo", "icon": "accessibility", "color": "FF9E64"},
+  {"id": "casa", "name": "Casa", "icon": "home", "color": "BB9AF7"},
+  {"id": "ciencia", "name": "Ciência", "icon": "science", "color": "2AC3DE"},
+  {"id": "musica-arte", "name": "Música e arte", "icon": "palette", "color": "BB9AF7"},
+  {"id": "profissoes", "name": "Profissões", "icon": "work", "color": "E0AF68"},
+  {"id": "historia-pt", "name": "História de Portugal", "icon": "account_balance", "color": "E0AF68"},
+  {"id": "transportes", "name": "Transportes", "icon": "directions_bus", "color": "7DCFFF"},
+  {"id": "mar", "name": "Mar", "icon": "water", "color": "7AA2F7"},
+  {"id": "lingua", "name": "Língua", "icon": "translate", "color": "9ECE6A"},
+  {"id": "geral", "name": "Geral", "icon": "tag", "color": "7982B4"}
+]
